@@ -1,2 +1,2 @@
-# marco-polo
-A Marco-Poloo explorer in Emacs
+# Marco Polo
+A personal Cardono explorer in Emacs
