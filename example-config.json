@@ -1,0 +1,12 @@
+n{
+  "accounts": [
+    {
+      "name": "wallet 1",
+      "stakeAddress": "stakexxx"
+    },
+    {
+      "name": "wallet 2",
+      "stakeAddress": "stakexxx"
+    }
+  ]
+}
