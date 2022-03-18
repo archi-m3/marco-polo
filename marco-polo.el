@@ -143,6 +143,7 @@
         (with-current-buffer buffer
           (erase-buffer)
           (marco-polo-mode)
+          (insert "Accounts:")
           (dolist (account-config account-configs)
             (let* ((stakeaddr (marco-polo/account-stakeaddr account-config))
                     (lovelace (string-to-number (gethash "controlled_amount" (gethash stakeaddr response))))
