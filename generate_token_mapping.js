@@ -8,7 +8,9 @@ const main = async () => {
   const dirName = path.join(TOKEN_REGISTRY_REPO_DIR, "mappings");
   console.log(`Reading token registry from ${dirName}`);
   const fileList = await readdir(dirName);
-  const jsonFileList = fileList.filter(f => f.toLowerCase().endsWith('.json'));
+  const jsonFileList = fileList
+    .filter(f => f.toLowerCase().endsWith('.json'))
+    .sort(f => f);
 
   const tokenDetails = [];
   await Promise.all(jsonFileList.map(async fileName => {

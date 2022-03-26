@@ -9,11 +9,6 @@
     "ticker": "NUT"
   },
   {
-    "assetId": "00109530994ea381c0bfe0936c85ea01bfe2765c24ef6dad5740c33e486f646c657220436f616c6974696f6e20436f696e",
-    "ticker": "HODLR",
-    "decimals": 4
-  },
-  {
     "assetId": "009f88446daf6bace9bdcb3a3ebe522d0e1fb862e2eaba0aac48f5cf4e544c",
     "ticker": "NTL",
     "decimals": 0
@@ -24,13 +19,9 @@
     "decimals": 0
   },
   {
-    "assetId": "025146866af908340247fe4e9672d5ac7059f1e8534696b5f920c9e66362544843",
-    "ticker": "cbTHC",
-    "decimals": 6
-  },
-  {
-    "assetId": "02f68378e37af4545d027d0a9fa5581ac682897a3fc1f6d8f936ed2b4154414441",
-    "ticker": "ATADA"
+    "assetId": "00109530994ea381c0bfe0936c85ea01bfe2765c24ef6dad5740c33e486f646c657220436f616c6974696f6e20436f696e",
+    "ticker": "HODLR",
+    "decimals": 4
   },
   {
     "assetId": "02a46eaed53a75095bb7c4562e104437d3c9c33abebf5cfc3bdfada556455241",
@@ -38,13 +29,17 @@
     "decimals": 0
   },
   {
-    "assetId": "02feb37f00bd5a130ae608f45e57f8354a7eababf347cd72d2d02c3374657374",
-    "ticker": "NCTT"
+    "assetId": "02f68378e37af4545d027d0a9fa5581ac682897a3fc1f6d8f936ed2b4154414441",
+    "ticker": "ATADA"
   },
   {
-    "assetId": "03c2a0cdd801ee9e674b91d897d530b0c85a22dc6bce17f70fbdda54497463687942757474",
-    "ticker": "ITCH",
+    "assetId": "025146866af908340247fe4e9672d5ac7059f1e8534696b5f920c9e66362544843",
+    "ticker": "cbTHC",
     "decimals": 6
+  },
+  {
+    "assetId": "02feb37f00bd5a130ae608f45e57f8354a7eababf347cd72d2d02c3374657374",
+    "ticker": "NCTT"
   },
   {
     "assetId": "03c2a0cdd801ee9e674b91d897d530b0c85a22dc6bce17f70fbdda545069737369427578",
@@ -52,22 +47,18 @@
     "decimals": 6
   },
   {
+    "assetId": "03f6265bf1e969a6b3699945273e52a35bad114e7c1dbff08ca9484469666974646f",
+    "ticker": "IFD"
+  },
+  {
     "assetId": "03eb34c854f250f6ab3d645eeb63a4b1c31d2fb162ebd4c62d735d77455343",
     "ticker": "ESC",
     "decimals": 0
   },
   {
-    "assetId": "03f6265bf1e969a6b3699945273e52a35bad114e7c1dbff08ca9484469666974646f",
-    "ticker": "IFD"
-  },
-  {
     "assetId": "04647e882e4f58dc119bf546c238f2d70d9cfba86c729cb90a8cdc2a474c5545",
     "ticker": "GLUE",
     "decimals": 0
-  },
-  {
-    "assetId": "04c40336e67982e02cc75336cf436a224569df1b950a18c6667189d64d4f4149",
-    "ticker": "MOAI"
   },
   {
     "assetId": "0516ed087e467e5275c76aaa00410398252e847c15566ba338ab4e3a4441524b",
@@ -84,6 +75,10 @@
     "ticker": "Ada"
   },
   {
+    "assetId": "04c40336e67982e02cc75336cf436a224569df1b950a18c6667189d64d4f4149",
+    "ticker": "MOAI"
+  },
+  {
     "assetId": "0813ad03a12ef3f24acc2daca1ed1e8a0163f69dcabb30655a9e800f53655361",
     "ticker": "SESA"
   },
@@ -97,21 +92,22 @@
     "ticker": "GLOVI"
   },
   {
-    "assetId": "0984a36eea57086bb0327d44f0d162f536dae00f661463cfd8f1b41f4d722048656e727920472e",
-    "ticker": "Henry"
-  },
-  {
-    "assetId": "0984a36eea57086bb0327d44f0d162f536dae00f661463cfd8f1b41f4d722e2048656e727920472e",
-    "ticker": "Henry"
-  },
-  {
-    "assetId": "09ffe7d86367aaad1f70f44b641ede94f3119786dc3cdd475035d17b5461726f744e4654",
-    "ticker": "TNFT"
+    "assetId": "03c2a0cdd801ee9e674b91d897d530b0c85a22dc6bce17f70fbdda54497463687942757474",
+    "ticker": "ITCH",
+    "decimals": 6
   },
   {
     "assetId": "0910961aa7c9bc105fe3ed3b9fae2df4fa3e5838c22c143f9272654543616d656c636f696e",
     "ticker": "CML",
     "decimals": 8
+  },
+  {
+    "assetId": "0984a36eea57086bb0327d44f0d162f536dae00f661463cfd8f1b41f4d722048656e727920472e",
+    "ticker": "Henry"
+  },
+  {
+    "assetId": "09ffe7d86367aaad1f70f44b641ede94f3119786dc3cdd475035d17b5461726f744e4654",
+    "ticker": "TNFT"
   },
   {
     "assetId": "09cf4aa9d37bdd4105fc91800443b3a53b059449245e14bbbfe955c7434e2048532067726164756174696f6e",
@@ -128,22 +124,26 @@
     "decimals": 0
   },
   {
+    "assetId": "0a9411372c4ae6e781de00ba83b049ca1912421ee1e74a698125e212546f7869635461696e7473",
+    "ticker": "TOXIC"
+  },
+  {
     "assetId": "0aa124d4536745e88208b90821c1bb409b06efc2ec289d71b9df425b534d4152544545",
     "ticker": "SMART",
     "decimals": 9
   },
   {
-    "assetId": "0a9411372c4ae6e781de00ba83b049ca1912421ee1e74a698125e212546f7869635461696e7473",
-    "ticker": "TOXIC"
+    "assetId": "0aa124d4536745e88208b90821c1bb409b06efc2ec289d71b9df425b536d61727420506c6163657320546f6b656e",
+    "ticker": "SMART",
+    "decimals": 9
   },
   {
     "assetId": "0acad9b787296f98faa1d0454224d961ba57bde96892f835c7295cd5486f736b696e736f6e734a6f75726e6579",
     "ticker": "PLANT"
   },
   {
-    "assetId": "0aa124d4536745e88208b90821c1bb409b06efc2ec289d71b9df425b536d61727420506c6163657320546f6b656e",
-    "ticker": "SMART",
-    "decimals": 9
+    "assetId": "0984a36eea57086bb0327d44f0d162f536dae00f661463cfd8f1b41f4d722e2048656e727920472e",
+    "ticker": "Henry"
   },
   {
     "assetId": "0b9973706f495e657b087d6413501e5301151dc9f4df720fd4a30477436f6d6d756e697479",
@@ -159,8 +159,9 @@
     "ticker": "GRASS"
   },
   {
-    "assetId": "0de501324fccf0ea4a08c333f9dbd2a7453eeb8037e0f7559c23a1a5534f4c4944",
-    "ticker": "SOLID"
+    "assetId": "0dafac5b0f0a3341585de75624b7b14cd45c2619466fb6aae22884e14248430a",
+    "ticker": "BHC",
+    "decimals": 18
   },
   {
     "assetId": "0c92aabef5a8f91a36470d0762806c165c0d04aa992541e25d55486a424347",
@@ -168,13 +169,12 @@
     "decimals": 6
   },
   {
-    "assetId": "0dafac5b0f0a3341585de75624b7b14cd45c2619466fb6aae22884e14248430a",
-    "ticker": "BHC",
-    "decimals": 18
-  },
-  {
     "assetId": "0fa7c317c7f1dc31d08a08d9cad823e6339a39baad371191bd49cad543617264616e6f426c7565",
     "ticker": "CBLU"
+  },
+  {
+    "assetId": "0de501324fccf0ea4a08c333f9dbd2a7453eeb8037e0f7559c23a1a5534f4c4944",
+    "ticker": "SOLID"
   },
   {
     "assetId": "0fab1eb1101aaaf0856a33087e815421588e253b28e03b24e9642d3743444e43",
@@ -211,8 +211,20 @@
     "decimals": 0
   },
   {
+    "assetId": "11e1bec40d325ea9593bb5e481c51f74f903a036692e916fbb6feae25041525459",
+    "ticker": "PARTY"
+  },
+  {
     "assetId": "11add6497baf92c8a4ff40e425cac4dac3f0145e76cfc937b2db19005465737420436f696e",
     "ticker": "TCN"
+  },
+  {
+    "assetId": "11e7fd0dfc8c0de5d70508b1d6db0b1e7aebe731e20700b4aa59406050756d706b696e476c6f7731",
+    "ticker": "PG"
+  },
+  {
+    "assetId": "127fb4d51dc05d6b8a58aba62c1e0d9a3f6a702026a22059f434e632",
+    "ticker": "BNA"
   },
   {
     "assetId": "0dafac5b0f0a3341585de75624b7b14cd45c2619466fb6aae22884e1424843",
@@ -220,25 +232,9 @@
     "decimals": 18
   },
   {
-    "assetId": "11e1bec40d325ea9593bb5e481c51f74f903a036692e916fbb6feae25041525459",
-    "ticker": "PARTY"
-  },
-  {
-    "assetId": "11e7fd0dfc8c0de5d70508b1d6db0b1e7aebe731e20700b4aa59406050756d706b696e476c6f7731",
-    "ticker": "PG"
-  },
-  {
     "assetId": "133fac9e153194428eb0919be39837b42b9e977fc7298f3ff1b76ef95055444759",
     "ticker": "PUDGY",
     "decimals": 0
-  },
-  {
-    "assetId": "127fb4d51dc05d6b8a58aba62c1e0d9a3f6a702026a22059f434e632",
-    "ticker": "BNA"
-  },
-  {
-    "assetId": "13c6a17548b8dcb20c12b8a029d9b20d4305984d81fe4c1442bb644453554e",
-    "ticker": "SUN"
   },
   {
     "assetId": "127fb4d51dc05d6b8a58aba62c1e0d9a3f6a702026a22059f434e63242616e616e61",
@@ -255,6 +251,10 @@
     "decimals": 0
   },
   {
+    "assetId": "13c6a17548b8dcb20c12b8a029d9b20d4305984d81fe4c1442bb644453554e",
+    "ticker": "SUN"
+  },
+  {
     "assetId": "14a3455f71c435a04ea1fdb50a3ef4c1cab0e79fb1565627ac66a57552415645",
     "ticker": "RAVE",
     "decimals": 0
@@ -263,6 +263,10 @@
     "assetId": "152756a3bdb4cd3f1357c24d0486310f5edf399f1581a63bd730597c4d656f7743686f77",
     "ticker": "MEOW",
     "decimals": 4
+  },
+  {
+    "assetId": "15664266e8605684e185ed2119d909b1001f61559f382efdd271fb8d416d657269",
+    "ticker": "AMERI"
   },
   {
     "assetId": "153764d7d12b4d708bdd0de1e523dabe4f0ef84448291ee601748f11",
@@ -274,20 +278,21 @@
     "decimals": 0
   },
   {
-    "assetId": "15664266e8605684e185ed2119d909b1001f61559f382efdd271fb8d416d657269",
-    "ticker": "AMERI"
-  },
-  {
     "assetId": "17979380d1a11d7643714dff02bee4459af0a48f5fd30d719a9debff47484f5354434841494e4e46545331",
     "ticker": "GHOST"
   },
   {
-    "assetId": "1921e2f88148e00787f1771d8070f595fbc619b37ceba77b76638653524e52",
+    "assetId": "1921e2f88148e00787f1771d8070f595fbc619b37ceba77b76638653524e520a",
     "ticker": "RNR",
     "decimals": 6
   },
   {
-    "assetId": "1921e2f88148e00787f1771d8070f595fbc619b37ceba77b76638653524e520a",
+    "assetId": "1a28ea0e6127d08e55fe7cd5e726b3f2ad4ff1f7ed1fe5366ce71b1a4d49434b4559",
+    "ticker": "MIKEY",
+    "decimals": 0
+  },
+  {
+    "assetId": "1921e2f88148e00787f1771d8070f595fbc619b37ceba77b76638653524e52",
     "ticker": "RNR",
     "decimals": 6
   },
@@ -297,14 +302,8 @@
     "decimals": 0
   },
   {
-    "assetId": "1a28ea0e6127d08e55fe7cd5e726b3f2ad4ff1f7ed1fe5366ce71b1a4d49434b4559",
-    "ticker": "MIKEY",
-    "decimals": 0
-  },
-  {
-    "assetId": "1a3547fe21f35ee2c7c5eff24619857cb0f22effb50737445860244343455448",
-    "ticker": "CETH",
-    "decimals": 8
+    "assetId": "1a33093078d07728dab4d6acb490cca5c7cdb7273d86a535a35e550f41726d79",
+    "ticker": "ARMY"
   },
   {
     "assetId": "1a434d4e4e1cb37d3735d7713386358021901ffb2d2cc6b5bb56b2e9564546",
@@ -312,18 +311,9 @@
     "decimals": 0
   },
   {
-    "assetId": "1a33093078d07728dab4d6acb490cca5c7cdb7273d86a535a35e550f41726d79",
-    "ticker": "ARMY"
-  },
-  {
-    "assetId": "1a49530b152d1e090a0242ecfe79a5b6b7d28e57f0d9d1b64f42eba452454954",
-    "ticker": "REIT",
-    "decimals": 6
-  },
-  {
-    "assetId": "1a71dc14baa0b4fcfb34464adc6656d0e562571e2ac1bc990c9ce5f6574f4c46",
-    "ticker": "WOLF",
-    "decimals": 0
+    "assetId": "1a3547fe21f35ee2c7c5eff24619857cb0f22effb50737445860244343455448",
+    "ticker": "CETH",
+    "decimals": 8
   },
   {
     "assetId": "1a6636ce993ea394b973ef15a3fd83f6c5fdc5d5f5104a1e369d38d0424e474f",
@@ -336,6 +326,16 @@
     "decimals": 8
   },
   {
+    "assetId": "1a71dc14baa0b4fcfb34464adc6656d0e562571e2ac1bc990c9ce5f6574f4c46",
+    "ticker": "WOLF",
+    "decimals": 0
+  },
+  {
+    "assetId": "1a49530b152d1e090a0242ecfe79a5b6b7d28e57f0d9d1b64f42eba452454954",
+    "ticker": "REIT",
+    "decimals": 6
+  },
+  {
     "assetId": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
     "ticker": "WMT",
     "decimals": 6
@@ -345,22 +345,22 @@
     "ticker": "ADV"
   },
   {
-    "assetId": "1dd1a7dde0e1e82761325ee5f4719d0d4b7c24dfba77d9bee01eed4b4d454f57",
-    "ticker": "MEOW",
-    "decimals": 6
-  },
-  {
     "assetId": "1e48265c139a3b74e536a773a5f2bdf45f689800748d3b1f65d6a627434447",
     "ticker": "CDG",
     "decimals": 0
   },
   {
-    "assetId": "1f4b1b277c9c001c1522727506a2cfb401a0d0ade069b0241f16f07d4849",
-    "ticker": "HI"
+    "assetId": "1dd1a7dde0e1e82761325ee5f4719d0d4b7c24dfba77d9bee01eed4b4d454f57",
+    "ticker": "MEOW",
+    "decimals": 6
   },
   {
     "assetId": "1f4b1b277c9c001c1522727506a2cfb401a0d0ade069b0241f16f07d484947",
     "ticker": "HIG"
+  },
+  {
+    "assetId": "1f4b1b277c9c001c1522727506a2cfb401a0d0ade069b0241f16f07d4849",
+    "ticker": "HI"
   },
   {
     "assetId": "1f4b1b277c9c001c1522727506a2cfb401a0d0ade069b0241f16f07d484950",
@@ -376,14 +376,14 @@
     "decimals": 0
   },
   {
-    "assetId": "1f54e684419ce562383dbbacce7adde31e3ffa1611213b7caf58c22f494e54",
-    "ticker": "INT",
-    "decimals": 4
-  },
-  {
     "assetId": "1fc21c9c7df3deca16d699b2d54cf5aa477576adc45f7c1340138a194341524453",
     "ticker": "CARDS",
     "decimals": 6
+  },
+  {
+    "assetId": "1f54e684419ce562383dbbacce7adde31e3ffa1611213b7caf58c22f494e54",
+    "ticker": "INT",
+    "decimals": 4
   },
   {
     "assetId": "20049b3532cae34ccc8a7fbb9d40077da54923827fe44e892516f1cd636861726c6965",
@@ -391,13 +391,13 @@
     "decimals": 0
   },
   {
+    "assetId": "208a2ca888886921513cb777bb832a8dc685c04de990480151f1215053484942414441",
+    "ticker": "SHIBA"
+  },
+  {
     "assetId": "203ad638c94f36bd603c7ae3d3d53e7e742396185d6dc4fb9df3b2425155414e544943",
     "ticker": "QTC",
     "decimals": 0
-  },
-  {
-    "assetId": "208a2ca888886921513cb777bb832a8dc685c04de990480151f1215053484942414441",
-    "ticker": "SHIBA"
   },
   {
     "assetId": "201eaf3ec3114036cd47c4f4696a8a3f344d33b2e7d510627fca44e7424c554e5442524f53434f46464545",
@@ -405,9 +405,8 @@
     "decimals": 8
   },
   {
-    "assetId": "21a5cfeb487bffdc52dcc482fa3cd657f54dd7a8f16bac40bad763e04d525350554646",
-    "ticker": "$MRSP",
-    "decimals": 0
+    "assetId": "2128d23f5e84a8d8a6f409d50750787461109b618b999dea428d92a0494e4e4f4d494e415445303031",
+    "ticker": "INNOM"
   },
   {
     "assetId": "20cd68533b47565f3c61efb39c30fdace9963bfa4c0060b613448e3c50524f584945",
@@ -420,17 +419,13 @@
     "decimals": 0
   },
   {
-    "assetId": "2128d23f5e84a8d8a6f409d50750787461109b618b999dea428d92a0494e4e4f4d494e415445303031",
-    "ticker": "INNOM"
+    "assetId": "230ad52f87dde3e38dcf01521dc5c0e62f611cb528917fef2fe6ef8d4d6574617370616365706164",
+    "ticker": "ACE",
+    "decimals": 6
   },
   {
     "assetId": "21c26b0c4d1cb37225374c96f38df70ecffd808bbd7f1aae23d8b3e37461696c73",
     "ticker": "TAILS"
-  },
-  {
-    "assetId": "230ad52f87dde3e38dcf01521dc5c0e62f611cb528917fef2fe6ef8d4d6574617370616365706164",
-    "ticker": "ACE",
-    "decimals": 6
   },
   {
     "assetId": "225fca7faa8b0f5eccbafe2b8d533efdbbe6cfac2752e9a5977d598e436f66666565",
@@ -446,14 +441,14 @@
     "ticker": "SKNFT"
   },
   {
-    "assetId": "240fb00eff73acc51c09e81dae6628c4bedb9964151d45e3faed874f434c4157",
-    "ticker": "$CLAW",
-    "decimals": 0
-  },
-  {
     "assetId": "23b730649bdae454fd76b4cb97b8abcc30662cc4999a85155820186f455442436f696e",
     "ticker": "ETB",
     "decimals": 2
+  },
+  {
+    "assetId": "240fb00eff73acc51c09e81dae6628c4bedb9964151d45e3faed874f434c4157",
+    "ticker": "$CLAW",
+    "decimals": 0
   },
   {
     "assetId": "2441ab3351c3b80213a98f4e09ddcf7dabe4879c3c94cc4e7205cb6346495245",
@@ -466,8 +461,8 @@
     "decimals": 0
   },
   {
-    "assetId": "24ec4bfc50800e3dafd528c74281d62a46fbbeae0cf931721d6a0c58424443",
-    "ticker": "BDC",
+    "assetId": "21a5cfeb487bffdc52dcc482fa3cd657f54dd7a8f16bac40bad763e04d525350554646",
+    "ticker": "$MRSP",
     "decimals": 0
   },
   {
@@ -477,6 +472,11 @@
   {
     "assetId": "25ce070dce27c23b15c6a1170472582aee0974d3ac98c8cf82eba9305350414e",
     "ticker": "SPAN",
+    "decimals": 0
+  },
+  {
+    "assetId": "24ec4bfc50800e3dafd528c74281d62a46fbbeae0cf931721d6a0c58424443",
+    "ticker": "BDC",
     "decimals": 0
   },
   {
@@ -498,26 +498,31 @@
     "decimals": 0
   },
   {
-    "assetId": "283f57a2d334cec622e8a87cfee16d3551a0c1d285c7aee27c242eee5241494e",
-    "ticker": "RAIN",
-    "decimals": 0
+    "assetId": "2966f762075766ec934945fd7e7da23458991f15ba2a8e930c35af7a417374726f636f696e73",
+    "ticker": "ASTRO"
   },
   {
     "assetId": "2877216d841a90869ee7376b9aa36ce88890545b853d80e85f92c772626f6e65",
     "ticker": "Bone"
   },
   {
-    "assetId": "2966f762075766ec934945fd7e7da23458991f15ba2a8e930c35af7a417374726f636f696e73",
-    "ticker": "ASTRO"
-  },
-  {
-    "assetId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e74",
-    "ticker": "MINt",
-    "decimals": 6
+    "assetId": "283f57a2d334cec622e8a87cfee16d3551a0c1d285c7aee27c242eee5241494e",
+    "ticker": "RAIN",
+    "decimals": 0
   },
   {
     "assetId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
     "ticker": "MIN",
+    "decimals": 6
+  },
+  {
+    "assetId": "2a549c63caf65cd72ef8e1db15f61b7160bbfbe73395d09f3ba5ce38446946414d",
+    "ticker": "DiFAM",
+    "decimals": 0
+  },
+  {
+    "assetId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e74",
+    "ticker": "MINt",
     "decimals": 6
   },
   {
@@ -526,17 +531,20 @@
     "decimals": 4
   },
   {
-    "assetId": "2a549c63caf65cd72ef8e1db15f61b7160bbfbe73395d09f3ba5ce38446946414d",
-    "ticker": "DiFAM",
-    "decimals": 0
-  },
-  {
     "assetId": "2abca9118b5c1e49f20edbd2bfa4e0713f95b628e033a74e71c63e66504f4f4c53",
     "ticker": "POOLS"
   },
   {
+    "assetId": "2ad8fbdc6f18d97ce61b113301f05ff6b2a241c4e0bf5d06127d30a24f43430a",
+    "ticker": "OCC"
+  },
+  {
     "assetId": "2aa9c1557fcf8e7caa049fa0911a8724a1cdaf8037fe0b431c6ac66450494759546f6b656e",
     "ticker": "PIGY"
+  },
+  {
+    "assetId": "2abe914547695c798bf485e1d4841eb56b8dae3d580c7fa8fdc51152556c74726f6e303031",
+    "ticker": "UTA"
   },
   {
     "assetId": "2ad8fbdc6f18d97ce61b113301f05ff6b2a241c4e0bf5d06127d30a24f4343",
@@ -544,17 +552,23 @@
     "decimals": 6
   },
   {
-    "assetId": "2abe914547695c798bf485e1d4841eb56b8dae3d580c7fa8fdc51152556c74726f6e303031",
-    "ticker": "UTA"
-  },
-  {
-    "assetId": "2ad8fbdc6f18d97ce61b113301f05ff6b2a241c4e0bf5d06127d30a24f43430a",
-    "ticker": "OCC"
-  },
-  {
     "assetId": "2ae22b27cb82a1c315bff3fe111a49d81ae6ffce881552700f36fe2643464354",
     "ticker": "CFCT",
     "decimals": 0
+  },
+  {
+    "assetId": "2afb448ef716bfbed1dcb676102194c3009bee5399e93b90def9db6a4249534f4e",
+    "ticker": "BISON",
+    "decimals": 0
+  },
+  {
+    "assetId": "2c96f49b6e6e32ae69a182e85b74db4edfc9539496a13ab76d1258fa434e54",
+    "ticker": "CNT",
+    "decimals": 0
+  },
+  {
+    "assetId": "2b8c3856ca70e849928af320c9dbe58db6571674326df87b2a422147",
+    "ticker": "3DS"
   },
   {
     "assetId": "2b00e440ab6753419963d4b1e97dd8742e570a1247782d4d9201601449414d47",
@@ -567,27 +581,13 @@
     "decimals": 6
   },
   {
-    "assetId": "2afb448ef716bfbed1dcb676102194c3009bee5399e93b90def9db6a4249534f4e",
-    "ticker": "BISON",
-    "decimals": 0
-  },
-  {
-    "assetId": "2b8c3856ca70e849928af320c9dbe58db6571674326df87b2a422147",
-    "ticker": "3DS"
-  },
-  {
     "assetId": "2ce11e34cbd41f275f2a467f65f704f503b4e63e3ec83c93141be18a57494e4e4552",
     "ticker": "WIN",
     "decimals": 0
   },
   {
-    "assetId": "2c96f49b6e6e32ae69a182e85b74db4edfc9539496a13ab76d1258fa434e54",
-    "ticker": "CNT",
-    "decimals": 0
-  },
-  {
-    "assetId": "2d0ebed56c0a7e16bd28bb93364c72724588ad882ee3d7f8a3cd083f494d4735303432",
-    "ticker": "GNP"
+    "assetId": "2d34edd3957b0b938c70156928ce3dc5ad28256fa6589cbab7a21bf1466c616e6f53776170",
+    "ticker": "FLAN"
   },
   {
     "assetId": "2d69860def0cca6199bb3ad6f8cd94c875cd80f5f03ea4d3ac024618416e61737461736961",
@@ -595,12 +595,8 @@
     "decimals": 6
   },
   {
-    "assetId": "2d34edd3957b0b938c70156928ce3dc5ad28256fa6589cbab7a21bf1466c616e6f53776170",
-    "ticker": "FLAN"
-  },
-  {
-    "assetId": "2f155a56a3221b696b78b2b4b59560d1030724a1c8875c19f0bbd183736361746f726533",
-    "ticker": "scatt"
+    "assetId": "2d0ebed56c0a7e16bd28bb93364c72724588ad882ee3d7f8a3cd083f494d4735303432",
+    "ticker": "GNP"
   },
   {
     "assetId": "2e539a822cafc10df794d919e613d97b594b2a608e961e0d25b985134241524f4f",
@@ -608,8 +604,8 @@
     "decimals": 1
   },
   {
-    "assetId": "300ec0d82a79acdc0616fdc0ef615e7deeddb03275e834685e9ee8a65854",
-    "ticker": "XT"
+    "assetId": "2f155a56a3221b696b78b2b4b59560d1030724a1c8875c19f0bbd183736361746f726533",
+    "ticker": "scatt"
   },
   {
     "assetId": "30a8b34b66cf083b47e84dc5904494481f57e94b145931ea9b85d99354736368616e6e656e",
@@ -621,13 +617,8 @@
     "decimals": 0
   },
   {
-    "assetId": "31b92b2a6682d2a1675ec4d7b9e1c16dc29428b673fce748740999a2484558",
-    "ticker": "HEX"
-  },
-  {
-    "assetId": "30db5406094be9701dd3d279f47fad57800ef2e48a2e0b68f13519ce6865616473",
-    "ticker": "heads",
-    "decimals": 0
+    "assetId": "300ec0d82a79acdc0616fdc0ef615e7deeddb03275e834685e9ee8a65854",
+    "ticker": "XT"
   },
   {
     "assetId": "320e3da27c6373e4bc045d7332c734ac393917755eb6b7689ce35ddb50524f5054454341",
@@ -639,8 +630,9 @@
     "ticker": "NODO"
   },
   {
-    "assetId": "327ebb172812c24e20a82db0d391b5403f58f305f672aed8fbd4880843534354",
-    "ticker": "CSCT"
+    "assetId": "30db5406094be9701dd3d279f47fad57800ef2e48a2e0b68f13519ce6865616473",
+    "ticker": "heads",
+    "decimals": 0
   },
   {
     "assetId": "339943fe84d685f59a85eac859ec483eea9d8ab263925028b45474037361726b",
@@ -648,21 +640,21 @@
     "decimals": 0
   },
   {
+    "assetId": "327ebb172812c24e20a82db0d391b5403f58f305f672aed8fbd4880843534354",
+    "ticker": "CSCT"
+  },
+  {
     "assetId": "338d751bec942c5781f8ec5862eb3c235a3fb4cd69ed2283d9e4ce315468654D69676874795368656570",
     "ticker": "TMS",
     "decimals": 6
-  },
-  {
-    "assetId": "338e4a4ca8207d0149c46b28970583944255715b12c80ab2874c7b8b544f494d45",
-    "ticker": "TOIME"
   },
   {
     "assetId": "33aeeac38bbc7776c6e2c4787b24e99ffe8a17fb6829456492040d28546865427573696E6573",
     "ticker": "Max"
   },
   {
-    "assetId": "33aeeac38bbc7776c6e2c4787b24e99ffe8a17fb6829456492040d2856697661466964656C",
-    "ticker": "Max"
+    "assetId": "338e4a4ca8207d0149c46b28970583944255715b12c80ab2874c7b8b544f494d45",
+    "ticker": "TOIME"
   },
   {
     "assetId": "34005cfbe33ce21a50ada748f4f6c7f2d0cf5375bb83cbba217b2bb9546f7069746f73",
@@ -670,8 +662,12 @@
     "decimals": 6
   },
   {
-    "assetId": "35597b8cd61d1c088ed10c64ef44e7e6be62f7ba49a5975353766fdc484f4e59",
-    "ticker": "HONY"
+    "assetId": "33aeeac38bbc7776c6e2c4787b24e99ffe8a17fb6829456492040d2856697661466964656C",
+    "ticker": "Max"
+  },
+  {
+    "assetId": "31b92b2a6682d2a1675ec4d7b9e1c16dc29428b673fce748740999a2484558",
+    "ticker": "HEX"
   },
   {
     "assetId": "35169132bf2d37d91ffa44fdc4d321c193471cdb2855ea172f1220b76253544b",
@@ -684,39 +680,29 @@
     "decimals": 0
   },
   {
+    "assetId": "35597b8cd61d1c088ed10c64ef44e7e6be62f7ba49a5975353766fdc484f4e59",
+    "ticker": "HONY"
+  },
+  {
     "assetId": "354a6c0acd846b195768ead31c92693ad26d82ba013e7df5d9777081514149",
     "ticker": "QAI",
     "decimals": 0
-  },
-  {
-    "assetId": "362706e09f908e1470b90278cb50bcd834b4c2f8d489431a8965ddb84b756265436f696e",
-    "ticker": "KUBE"
   },
   {
     "assetId": "3652a89686608c45ca5b7768f44a961fe0e3459e21db4ea61b713aa6",
     "ticker": "DX"
   },
   {
-    "assetId": "3652a89686608c45ca5b7768f44a961fe0e3459e21db4ea61b713aa64465764578",
-    "ticker": "DX"
-  },
-  {
-    "assetId": "37226aea1e67e5fe088f4d9f91823c4bd82c118af256380ee2a8bee1434c415054657374",
-    "ticker": "t₡",
-    "decimals": 3
-  },
-  {
     "assetId": "371a73cf95f223953911c3439e77f6cfde6874ecc6d3b9953f6085a242554e",
     "ticker": "BUN"
   },
   {
-    "assetId": "36e1d3481c77e4968ae050c814a35c1a2d0b953b31832d4c45353fbd474f4c46",
-    "ticker": "GOLF",
-    "decimals": 0
+    "assetId": "362706e09f908e1470b90278cb50bcd834b4c2f8d489431a8965ddb84b756265436f696e",
+    "ticker": "KUBE"
   },
   {
-    "assetId": "398876d577bcc542d9e73244f9ffec78cd1a13c4e4c39b93744ada7673696b6b61",
-    "ticker": "SIKKA"
+    "assetId": "3652a89686608c45ca5b7768f44a961fe0e3459e21db4ea61b713aa64465764578",
+    "ticker": "DX"
   },
   {
     "assetId": "38db7b670f14309b7db8ef47f2573f673933d2f3eab21a22519f243650756d707a",
@@ -724,13 +710,22 @@
     "decimals": 4
   },
   {
+    "assetId": "37226aea1e67e5fe088f4d9f91823c4bd82c118af256380ee2a8bee1434c415054657374",
+    "ticker": "t₡",
+    "decimals": 3
+  },
+  {
+    "assetId": "36e1d3481c77e4968ae050c814a35c1a2d0b953b31832d4c45353fbd474f4c46",
+    "ticker": "GOLF",
+    "decimals": 0
+  },
+  {
     "assetId": "38149ef0f3886ffed88aa8cf9e4fdcc0e9243c3dc0b76e0a1ef376624d61636f696e",
     "ticker": "BECK"
   },
   {
-    "assetId": "398e01f47a6e6359ef38d3681d05bc4f130cc4b549137ae256f7bcd3244252414e444f4e",
-    "ticker": "FED",
-    "decimals": 0
+    "assetId": "398876d577bcc542d9e73244f9ffec78cd1a13c4e4c39b93744ada7673696b6b61",
+    "ticker": "SIKKA"
   },
   {
     "assetId": "39bc54aa9a749d53796c93a54376cbf98818698e20864ae5ceb9110b535849",
@@ -740,6 +735,11 @@
   {
     "assetId": "3a49d81a5dd6423eedce5481438f2bd7ea2ba38fcf502bd30b9c083b42454c474131",
     "ticker": "BELGA"
+  },
+  {
+    "assetId": "398e01f47a6e6359ef38d3681d05bc4f130cc4b549137ae256f7bcd3244252414e444f4e",
+    "ticker": "FED",
+    "decimals": 0
   },
   {
     "assetId": "39b71755a3be04599451b0e841fa27209266f338308c84ace47b99c84d494d53",
@@ -780,23 +780,18 @@
     "decimals": 0
   },
   {
-    "assetId": "3c85d3f5187b96b80dfe5b2cfba5c89c04d4631fb3f51705cbb23b3f4e4d54",
-    "ticker": "NMT",
-    "decimals": 4
-  },
-  {
     "assetId": "3cbb2431cbb99954e2a2d6bda793f8d9bffa0150dc37f89db6676a2c504f4f4c",
     "ticker": "POOL",
     "decimals": 0
   },
   {
-    "assetId": "3d0b8f961f5f7dc5751ada15895bf553e24f22dac9155c79b2122140464f58",
-    "ticker": "FOX",
-    "decimals": 0
+    "assetId": "3c85d3f5187b96b80dfe5b2cfba5c89c04d4631fb3f51705cbb23b3f4e4d54",
+    "ticker": "NMT",
+    "decimals": 4
   },
   {
-    "assetId": "3d17c4cdf19e5c050d2540a7ed562e8ad1ba8c6c1cd03484ad4ae30443524d",
-    "ticker": "CREAM",
+    "assetId": "3d0b8f961f5f7dc5751ada15895bf553e24f22dac9155c79b2122140464f58",
+    "ticker": "FOX",
     "decimals": 0
   },
   {
@@ -805,8 +800,9 @@
     "decimals": 0
   },
   {
-    "assetId": "3dd8392365f62eb7970722c1b6163edfd2108629af4271c0e6a556a3434f32544f4b454e",
-    "ticker": "CO2"
+    "assetId": "3d17c4cdf19e5c050d2540a7ed562e8ad1ba8c6c1cd03484ad4ae30443524d",
+    "ticker": "CREAM",
+    "decimals": 0
   },
   {
     "assetId": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b3953746172636820546f6b656e",
@@ -817,13 +813,17 @@
     "ticker": "LOVE"
   },
   {
-    "assetId": "3f9823bda87fc5eba4c42f9568bb875340f7e5dad1e99c4319995c6d47484f5354",
-    "ticker": "GHOST"
-  },
-  {
     "assetId": "400c0b1999a9ef44530c07b6fd869062e98543bb498112e23531bdc94f5449434f494e",
     "ticker": "OTC",
     "decimals": 0
+  },
+  {
+    "assetId": "3dd8392365f62eb7970722c1b6163edfd2108629af4271c0e6a556a3434f32544f4b454e",
+    "ticker": "CO2"
+  },
+  {
+    "assetId": "3f9823bda87fc5eba4c42f9568bb875340f7e5dad1e99c4319995c6d47484f5354",
+    "ticker": "GHOST"
   },
   {
     "assetId": "3f36f6048afc298de6254c6a7ecc0f5517cdec72875bb73c3dc5795a414d414e544953",
@@ -831,16 +831,11 @@
     "decimals": 0
   },
   {
-    "assetId": "407ca40d92693cb737f1cfedb98023ae753038d8c6ca9e02483d79c6524e520a",
+    "assetId": "407ca40d92693cb737f1cfedb98023ae753038d8c6ca9e02483d79c6524e52",
     "ticker": "RNR"
   },
   {
-    "assetId": "40bd871a85d2b5ff0efe75ef036e1f4ac17a4ad273c371b94501ae31464c414e4f",
-    "ticker": "FLANO",
-    "decimals": 0
-  },
-  {
-    "assetId": "407ca40d92693cb737f1cfedb98023ae753038d8c6ca9e02483d79c6524e52",
+    "assetId": "407ca40d92693cb737f1cfedb98023ae753038d8c6ca9e02483d79c6524e520a",
     "ticker": "RNR"
   },
   {
@@ -848,8 +843,18 @@
     "ticker": "SAR"
   },
   {
+    "assetId": "40bd871a85d2b5ff0efe75ef036e1f4ac17a4ad273c371b94501ae31464c414e4f",
+    "ticker": "FLANO",
+    "decimals": 0
+  },
+  {
     "assetId": "4113494a36c643e3e2b17abbf3b1f47e317133e2a7a5e108fd19ec7148534b",
     "ticker": "HSK",
+    "decimals": 0
+  },
+  {
+    "assetId": "422eb65d142f36b68ab027be310c970212b1530f8903a4e3cc9903ba4b5452",
+    "ticker": "KTR",
     "decimals": 0
   },
   {
@@ -857,9 +862,9 @@
     "ticker": "ASW"
   },
   {
-    "assetId": "422eb65d142f36b68ab027be310c970212b1530f8903a4e3cc9903ba4b5452",
-    "ticker": "KTR",
-    "decimals": 0
+    "assetId": "42021555abb9323dfc9d7fb022203f90b4f857f7725722fa2c7e126843686f73656e20436f696e",
+    "ticker": "CHOSN",
+    "decimals": 4
   },
   {
     "assetId": "436649cee1a57ab2ab38a8be97003870b7fe7f1489706090e5be4b64636c616d73",
@@ -870,9 +875,9 @@
     "ticker": "MUSH"
   },
   {
-    "assetId": "42021555abb9323dfc9d7fb022203f90b4f857f7725722fa2c7e126843686f73656e20436f696e",
-    "ticker": "CHOSN",
-    "decimals": 4
+    "assetId": "437d6682fd33e6d26ff6437ef5fc2f9655d3c3b33637fb69dbd767be42524e44",
+    "ticker": "BRND",
+    "decimals": 0
   },
   {
     "assetId": "4368b0c0c36f8e346fb90f40b1f5e9a360b37035d1e37f32b2d7f558454747534c59",
@@ -880,13 +885,12 @@
     "decimals": 0
   },
   {
-    "assetId": "437d6682fd33e6d26ff6437ef5fc2f9655d3c3b33637fb69dbd767be42524e44",
-    "ticker": "BRND",
-    "decimals": 0
+    "assetId": "4383085f3993b37866eef5e252953ffebbf2fda55f3ca6fb299a8000434c495645",
+    "ticker": "CLIVE"
   },
   {
-    "assetId": "4383085f3993b37866eef5e252953ffebbf2fda55f3ca6fb299a8000434c495645464c59494e47",
-    "ticker": "CLFLY"
+    "assetId": "46c5ac28af76be79a1de47815d3d36599d56d8c366cb99d5828c35535461726f74546f6b656e73",
+    "ticker": "TFT"
   },
   {
     "assetId": "45711a0c7f67ac1fd8452977e4af35d7d475f96d6bd907056164912852444d50",
@@ -894,12 +898,8 @@
     "decimals": 2
   },
   {
-    "assetId": "441e0ce6ac7ee8bc0ce1ba9905a829b2d716b1f2ce7826ff7bb5d59e47616c61637469634372656469745374616e64617264",
-    "ticker": "ǤCS"
-  },
-  {
-    "assetId": "46c5ac28af76be79a1de47815d3d36599d56d8c366cb99d5828c35535461726f74546f6b656e73",
-    "ticker": "TFT"
+    "assetId": "4383085f3993b37866eef5e252953ffebbf2fda55f3ca6fb299a8000434c495645464c59494e47",
+    "ticker": "CLFLY"
   },
   {
     "assetId": "45a3a46bd3e5b9e82a2a813fce13530ea5b74edfd0f7193ca9e092d5494645",
@@ -907,25 +907,8 @@
     "decimals": 0
   },
   {
-    "assetId": "47b2b71ee8d65214c79b7de5b6e4aee63689e083de8e985f1164b0704352494d45",
-    "ticker": "CRIME",
-    "decimals": 0
-  },
-  {
-    "assetId": "47c4eef0b2f381071f587641280e9ac891b00cb703a555e06f22930c4141414141",
-    "ticker": "AAATI"
-  },
-  {
-    "assetId": "48833a0dcbc60d26f06d726ba0a30aa878fbf7acc3e746b991f6c5e1416c6f6e7a6f",
-    "ticker": "ALONZ"
-  },
-  {
-    "assetId": "495c6b39c490ae2faf247fb161144d022caf2a89ba4c7696297cf91d504958454c",
-    "ticker": "PIXEL"
-  },
-  {
-    "assetId": "4383085f3993b37866eef5e252953ffebbf2fda55f3ca6fb299a8000434c495645",
-    "ticker": "CLIVE"
+    "assetId": "441e0ce6ac7ee8bc0ce1ba9905a829b2d716b1f2ce7826ff7bb5d59e47616c61637469634372656469745374616e64617264",
+    "ticker": "ǤCS"
   },
   {
     "assetId": "48d67fb303c89ed4297a95af6952a0195326ef4116ce29a10907942747616c676f",
@@ -933,16 +916,37 @@
     "decimals": 0
   },
   {
+    "assetId": "48833a0dcbc60d26f06d726ba0a30aa878fbf7acc3e746b991f6c5e1416c6f6e7a6f",
+    "ticker": "ALONZ"
+  },
+  {
+    "assetId": "47b2b71ee8d65214c79b7de5b6e4aee63689e083de8e985f1164b0704352494d45",
+    "ticker": "CRIME",
+    "decimals": 0
+  },
+  {
     "assetId": "495c6b39c490ae2faf247fb161144d022caf2a89ba4c7696297cf91d56696272616e7420477261737320426c6f636b",
     "ticker": "LAND"
+  },
+  {
+    "assetId": "47c4eef0b2f381071f587641280e9ac891b00cb703a555e06f22930c4141414141",
+    "ticker": "AAATI"
+  },
+  {
+    "assetId": "495c6b39c490ae2faf247fb161144d022caf2a89ba4c7696297cf91d504958454c",
+    "ticker": "PIXEL"
+  },
+  {
+    "assetId": "4a4cd21739bcd6933f503a6c7532f0392f3beaf8bef2aea44994faf74d79726f6e",
+    "ticker": "MYRON"
   },
   {
     "assetId": "4a1eeb5a1c0f8ce54ed3aa9375aa21cd5b8b4937d797ffb7ecae2e0e41646d6972616c644369726375697473",
     "ticker": "ADM"
   },
   {
-    "assetId": "4a4cd21739bcd6933f503a6c7532f0392f3beaf8bef2aea44994faf74d79726f6e",
-    "ticker": "MYRON"
+    "assetId": "4a37aabad6f9d05451ecba54c5f51a74b28ffc9d9fe929b50c33f52052554e4553",
+    "ticker": "RUNES"
   },
   {
     "assetId": "4a4f3c527455a61af714d34d35c1d4d066a7fbe4b6873ff3995d03ec484343",
@@ -954,18 +958,17 @@
     "ticker": "SKEPS"
   },
   {
-    "assetId": "4a37aabad6f9d05451ecba54c5f51a74b28ffc9d9fe929b50c33f52052554e4553",
-    "ticker": "RUNES"
-  },
-  {
-    "assetId": "4baf6493c40c06e6e8977e9a768b1552d16a98ad8e7116cca675502857476c6f76",
-    "ticker": "WGLOV",
-    "decimals": 0
+    "assetId": "4c4a04f30a4146c92bd68d4861bc39482f24905936b6807308784ca44d696e65576f726c644b696f73717565",
+    "ticker": "MWK"
   },
   {
     "assetId": "4bf20caed08750486bc11e35b9f2b3d455f9594f4d8b47ee2c79f68c46616e",
     "ticker": "FAN",
     "decimals": 2
+  },
+  {
+    "assetId": "4c4a04f30a4146c92bd68d4861bc39482f24905936b6807308784ca44d696e65576f726c6453616c6f6e",
+    "ticker": "MWS"
   },
   {
     "assetId": "4c17b7009448a33d1834b0946ea752ecd0cc61c7bb25cd9ff18cff58426c6f6f6d",
@@ -977,16 +980,13 @@
     "ticker": "MWCS"
   },
   {
+    "assetId": "4baf6493c40c06e6e8977e9a768b1552d16a98ad8e7116cca675502857476c6f76",
+    "ticker": "WGLOV",
+    "decimals": 0
+  },
+  {
     "assetId": "4c4a04f30a4146c92bd68d4861bc39482f24905936b6807308784ca44d696e65576f726c644e657759656172",
     "ticker": "MWNY"
-  },
-  {
-    "assetId": "4c4a04f30a4146c92bd68d4861bc39482f24905936b6807308784ca44d696e65576f726c644b696f73717565",
-    "ticker": "MWK"
-  },
-  {
-    "assetId": "4c4a04f30a4146c92bd68d4861bc39482f24905936b6807308784ca44d696e65576f726c6453616c6f6e",
-    "ticker": "MWS"
   },
   {
     "assetId": "4c5d6baa4e94b86ccfba57848f3ed157350e27ec4b2a2e165a7cdc14e2809c42554b5ae2809d",
@@ -999,6 +999,11 @@
     "decimals": 0
   },
   {
+    "assetId": "5029eeccd52fef299509d509a8318fd7930c3dffcce1f9f39ff11ef9464743",
+    "ticker": "FGC",
+    "decimals": 0
+  },
+  {
     "assetId": "50f8758f5a5c9511a8d9b395e7d5df761bc7e46bcbcaf4d383bc18774144414f",
     "ticker": "ADAO",
     "decimals": 6
@@ -1007,11 +1012,6 @@
     "assetId": "4fc109e92849557e05989bfe1e3bb0f54e4ea40d05fda2caffe4c765416c64657261616e",
     "ticker": "ALDRN",
     "decimals": 4
-  },
-  {
-    "assetId": "5029eeccd52fef299509d509a8318fd7930c3dffcce1f9f39ff11ef9464743",
-    "ticker": "FGC",
-    "decimals": 0
   },
   {
     "assetId": "51315043b5288badcd3c15055ea37a951f9a1a6451b6ef08abd9f2915350495241",
@@ -1033,14 +1033,22 @@
     "decimals": 6
   },
   {
-    "assetId": "53f30a1675419b539e85540ab4e962c33c1e75d380cf92e5cbe6ae9541525441",
-    "ticker": "ARTA",
-    "decimals": 6
+    "assetId": "544571c086d0e5c5022aca9717dd0f438e21190abb48f37b3ae129f047524f57",
+    "ticker": "GROW"
   },
   {
     "assetId": "53cc9c21351cc19be68ebb5e275c325d0fc2be0044b695361ae330fd55534449",
     "ticker": "USDI",
     "decimals": 2
+  },
+  {
+    "assetId": "53f30a1675419b539e85540ab4e962c33c1e75d380cf92e5cbe6ae9541525441",
+    "ticker": "ARTA",
+    "decimals": 6
+  },
+  {
+    "assetId": "54ef11805333453c8c3d6fbaa0d4496ddeb94857e1d7f3411bb79489414452",
+    "ticker": "ADR"
   },
   {
     "assetId": "5416cc6ce087e5e92a6ecd8e1091f383d1a48834d489b80f89ebea57526f79616c426f6f67696573",
@@ -1052,26 +1060,22 @@
     "decimals": 2
   },
   {
-    "assetId": "544571c086d0e5c5022aca9717dd0f438e21190abb48f37b3ae129f047524f57",
-    "ticker": "GROW"
-  },
-  {
-    "assetId": "54ef11805333453c8c3d6fbaa0d4496ddeb94857e1d7f3411bb79489414452",
-    "ticker": "ADR"
-  },
-  {
     "assetId": "55c7056bde3f21f1cff57663ba4a51e85040a11bb795b92daaf695e147414441",
     "ticker": "GADA",
     "decimals": 0
   },
   {
-    "assetId": "564495f17c1abd16e55b115c17f5fb6348728836c5830c3c5e9b071f434841524c4933",
-    "ticker": "C3",
-    "decimals": 6
+    "assetId": "574291e98f62f0aee7f5e38f7c40d47fbe1bdf30d017e118684fba96416c706861",
+    "ticker": "AAL"
   },
   {
     "assetId": "5707ff6255e777e129c4d5d1961895ab52551c6c28ea942ffe6b6a66486f7069756d5265636f7264734672616374616c4c6f676f31",
     "ticker": "HOPI"
+  },
+  {
+    "assetId": "564495f17c1abd16e55b115c17f5fb6348728836c5830c3c5e9b071f434841524c4933",
+    "ticker": "C3",
+    "decimals": 6
   },
   {
     "assetId": "564703998cfc892210109ad35f749346b1625c89683e35b1a5c2ed0f4745524f",
@@ -1093,23 +1097,9 @@
     "decimals": 2
   },
   {
-    "assetId": "574291e98f62f0aee7f5e38f7c40d47fbe1bdf30d017e118684fba96416c706861",
-    "ticker": "AAL"
-  },
-  {
-    "assetId": "597679186e47d26e211fe65b3a0a70de8dd3543b24a5bd8b4a4f4e04647579626f69636f696e",
-    "ticker": "DB135",
-    "decimals": 4
-  },
-  {
     "assetId": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477424c43",
     "ticker": "BLC",
     "decimals": 6
-  },
-  {
-    "assetId": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b4154484f4d",
-    "ticker": "athom",
-    "decimals": 0
   },
   {
     "assetId": "59a958c95c7d529d67bdcd413d6717727afdc4d9d050123c7d23945d426561636f696e",
@@ -1117,22 +1107,18 @@
     "decimals": 0
   },
   {
+    "assetId": "597679186e47d26e211fe65b3a0a70de8dd3543b24a5bd8b4a4f4e04647579626f69636f696e",
+    "ticker": "DB135",
+    "decimals": 4
+  },
+  {
     "assetId": "59e31d17e4d212ea35df6088e0395455c40f5ad463d161497a89c567426162795365616c",
     "ticker": "BSEAL"
   },
   {
-    "assetId": "59eccbbd4cdf738e6272ccabfbb6d1c02f6335ed4f860bfde4d53cb84752415659",
-    "ticker": "GRAVY",
-    "decimals": 4
-  },
-  {
-    "assetId": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb243561646f736961",
-    "ticker": "ADO",
-    "decimals": 6
-  },
-  {
-    "assetId": "5b01968867e13432afaa2f814e1d15e332d6cd0aa77e350972b0967d476f76546f6b656e",
-    "ticker": "TADAO"
+    "assetId": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b4154484f4d",
+    "ticker": "athom",
+    "decimals": 0
   },
   {
     "assetId": "59e31d17e4d212ea35df6088e0395455c40f5ad463d161497a89c5675345414c",
@@ -1144,8 +1130,22 @@
     "decimals": 0
   },
   {
+    "assetId": "5b01968867e13432afaa2f814e1d15e332d6cd0aa77e350972b0967d476f76546f6b656e",
+    "ticker": "TADAO"
+  },
+  {
+    "assetId": "59eccbbd4cdf738e6272ccabfbb6d1c02f6335ed4f860bfde4d53cb84752415659",
+    "ticker": "GRAVY",
+    "decimals": 4
+  },
+  {
     "assetId": "5b01968867e13432afaa2f814e1d15e332d6cd0aa77e350972b0967d4144414f476f7665726e616e6365546f6b656e",
     "ticker": "ADAO"
+  },
+  {
+    "assetId": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb243561646f736961",
+    "ticker": "ADO",
+    "decimals": 6
   },
   {
     "assetId": "5b5a8830b15a15e10ce5308ab42552dc781705827e0db165f18c4a304144417768616c65",
@@ -1157,6 +1157,11 @@
     "ticker": "JOY"
   },
   {
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf961646168756e677279",
+    "ticker": "ADAhu",
+    "decimals": 0
+  },
+  {
     "assetId": "5c9da1679c0f7ca1909c34e38a8e157eb8a5943236e588edf1cead014e6f726d636f696e",
     "ticker": "NORM"
   },
@@ -1165,18 +1170,8 @@
     "ticker": "TTM"
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf961646168756e677279",
-    "ticker": "ADAhu",
-    "decimals": 0
-  },
-  {
     "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9616e677279",
     "ticker": "Angry",
-    "decimals": 0
-  },
-  {
-    "assetId": "5cf69e1ffa60c789dcd6083fc6b6536b58039d557ea42201a1d5a579486f646c72",
-    "ticker": "HODLR",
     "decimals": 0
   },
   {
@@ -1185,48 +1180,18 @@
     "decimals": 0
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9656e7261676564",
-    "ticker": "Enrgd",
-    "decimals": 0
-  },
-  {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9666c69727479",
-    "ticker": "Flirt",
-    "decimals": 0
-  },
-  {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf966727573747261746564",
-    "ticker": "Frust",
-    "decimals": 0
-  },
-  {
     "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9637279696e67",
     "ticker": "Cry",
     "decimals": 0
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96861707079",
-    "ticker": "Happy",
+    "assetId": "5cf69e1ffa60c789dcd6083fc6b6536b58039d557ea42201a1d5a579486f646c72",
+    "ticker": "HODLR",
     "decimals": 0
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf966756d696e67",
-    "ticker": "Fmng",
-    "decimals": 0
-  },
-  {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9696e636f676e69746f",
-    "ticker": "Incog",
-    "decimals": 0
-  },
-  {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9696e6661747561746564",
-    "ticker": "Infat",
-    "decimals": 0
-  },
-  {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9696e6a75726564",
-    "ticker": "Injur",
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9656e7261676564",
+    "ticker": "Enrgd",
     "decimals": 0
   },
   {
@@ -1235,13 +1200,38 @@
     "decimals": 0
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96a6f626a65657a6564",
-    "ticker": "Jobjz",
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9666c69727479",
+    "ticker": "Flirt",
     "decimals": 0
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96d6963726f70686f626963",
-    "ticker": "MicPh",
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9696e6661747561746564",
+    "ticker": "Infat",
+    "decimals": 0
+  },
+  {
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf966727573747261746564",
+    "ticker": "Frust",
+    "decimals": 0
+  },
+  {
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9696e636f676e69746f",
+    "ticker": "Incog",
+    "decimals": 0
+  },
+  {
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf966756d696e67",
+    "ticker": "Fmng",
+    "decimals": 0
+  },
+  {
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96861707079",
+    "ticker": "Happy",
+    "decimals": 0
+  },
+  {
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9696e6a75726564",
+    "ticker": "Injur",
     "decimals": 0
   },
   {
@@ -1250,8 +1240,18 @@
     "decimals": 0
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96d6f6e657968756e677279",
-    "ticker": "Money",
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96d6963726f70686f626963",
+    "ticker": "MicPh",
+    "decimals": 0
+  },
+  {
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96e617573656f7573",
+    "ticker": "Nause",
+    "decimals": 0
+  },
+  {
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96a6f626a65657a6564",
+    "ticker": "Jobjz",
     "decimals": 0
   },
   {
@@ -1265,8 +1265,13 @@
     "decimals": 0
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96e617573656f7573",
-    "ticker": "Nause",
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9736869747479",
+    "ticker": "Shity",
+    "decimals": 0
+  },
+  {
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf96d6f6e657968756e677279",
+    "ticker": "Money",
     "decimals": 0
   },
   {
@@ -1275,24 +1280,19 @@
     "decimals": 0
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9736d696c6579",
-    "ticker": "Smile",
-    "decimals": 0
+    "assetId": "5d1c57aef534bea3985e9cfb2cde4d67522bdbfa49596cfa286e92d74352414654",
+    "ticker": "CRAFT",
+    "decimals": 6
   },
   {
-    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9736869747479",
-    "ticker": "Shity",
+    "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9736d696c6579",
+    "ticker": "Smile",
     "decimals": 0
   },
   {
     "assetId": "5d09d0f4780d0db13ba0c9d97840dce6456768655fb9c41636130bf9776f6f7a79",
     "ticker": "Woozy",
     "decimals": 0
-  },
-  {
-    "assetId": "5d1c57aef534bea3985e9cfb2cde4d67522bdbfa49596cfa286e92d74352414654",
-    "ticker": "CRAFT",
-    "decimals": 6
   },
   {
     "assetId": "5e7b4aefc336b7461f45366862d0c2735b1ba0a4a43184524092e57748454c50",
@@ -1305,17 +1305,13 @@
     "decimals": 0
   },
   {
-    "assetId": "6085a037eb13bb0be011ed283d23ed1bd0bf6fa95b02eccb01cf691d744f435441",
-    "ticker": "OCTA",
-    "decimals": 6
-  },
-  {
     "assetId": "6005b86ad1a34495a3a790d83698a4009d11a7dcc5b22ee5c666fcec536875745570416e6454616b654d79414441",
     "ticker": "SHUT💵"
   },
   {
-    "assetId": "62666a99260939ed4643f966d6f8320d3f8d63a6405ae01b968ee67d4348494c44",
-    "ticker": "CHILD"
+    "assetId": "6085a037eb13bb0be011ed283d23ed1bd0bf6fa95b02eccb01cf691d744f435441",
+    "ticker": "OCTA",
+    "decimals": 6
   },
   {
     "assetId": "6130574c48e07ae7799537340cdb2d5c8e3c9137312c871ac4ea2797414358",
@@ -1323,23 +1319,27 @@
     "decimals": 0
   },
   {
-    "assetId": "628436be6fa349ebf4ac3d749e87a36981b930d4bb4319c11e64042c464c5a",
-    "ticker": "FLZ"
-  },
-  {
     "assetId": "614ee71f2e7aef6b1d51e39caf6a876fede0735a1a292d962f24cc69776861696c",
     "ticker": "WHAIL",
     "decimals": 0
   },
   {
-    "assetId": "62c25da0792c3c887fe5e723abcc48db9d49ff0fa3ee5664844f4632434c414e",
-    "ticker": "CLAN",
-    "decimals": 0
+    "assetId": "628436be6fa349ebf4ac3d749e87a36981b930d4bb4319c11e64042c464c5a",
+    "ticker": "FLZ"
   },
   {
     "assetId": "62f52e2132d91ec8be39bb1ab193479fcf8fc4fd8cd4de5288bd6eb55347454e",
     "ticker": "SGEN",
     "decimals": 6
+  },
+  {
+    "assetId": "62666a99260939ed4643f966d6f8320d3f8d63a6405ae01b968ee67d4348494c44",
+    "ticker": "CHILD"
+  },
+  {
+    "assetId": "62c25da0792c3c887fe5e723abcc48db9d49ff0fa3ee5664844f4632434c414e",
+    "ticker": "CLAN",
+    "decimals": 0
   },
   {
     "assetId": "645605a9fbfcc2cc42acdd636521750cf3da45a702b8d0dcaed57f724272757a",
@@ -1356,6 +1356,11 @@
     "decimals": 4
   },
   {
+    "assetId": "6622cfd6be73d6297a6647de9a64f54a5e02d3b60cfb819d2a7c513a436f6f6c4c61756e6368",
+    "ticker": "COOL",
+    "decimals": 6
+  },
+  {
     "assetId": "666899b5a879beaed808e00dccc0f772a0684fbfd6ca6f797d8a4ad25a594e58",
     "ticker": "ZYNX",
     "decimals": 0
@@ -1365,14 +1370,18 @@
     "ticker": "PEACE"
   },
   {
-    "assetId": "6622cfd6be73d6297a6647de9a64f54a5e02d3b60cfb819d2a7c513a436f6f6c4c61756e6368",
-    "ticker": "COOL",
-    "decimals": 6
-  },
-  {
     "assetId": "674d8134327a2485ff28cc0373d6f03b861e01ac1b435e9acd92c583454f5a",
     "ticker": "EOZ",
     "decimals": 0
+  },
+  {
+    "assetId": "68e43bf1a128a0c3f59f1aac82264ec18a3694e6d339029d1537bba54f524143554c554d",
+    "ticker": "ORA",
+    "decimals": 0
+  },
+  {
+    "assetId": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286524144546f6b656e73",
+    "ticker": "RAD"
   },
   {
     "assetId": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f634e45574d",
@@ -1380,21 +1389,12 @@
     "decimals": 6
   },
   {
-    "assetId": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286524144546f6b656e73",
-    "ticker": "RAD"
-  },
-  {
-    "assetId": "67b4e597b2858e1f0f80929eebc718e8a1ea9684cb591e33542c938846524545444f4d",
-    "ticker": "FREEDOM",
-    "decimals": 0
-  },
-  {
     "assetId": "67ca21ff82dee411106df756ce2b1375343bbc33aaf1aefff21f9de7537461796b",
     "ticker": "STAYK"
   },
   {
-    "assetId": "68e43bf1a128a0c3f59f1aac82264ec18a3694e6d339029d1537bba54f524143554c554d",
-    "ticker": "ORA",
+    "assetId": "67b4e597b2858e1f0f80929eebc718e8a1ea9684cb591e33542c938846524545444f4d",
+    "ticker": "FREEDOM",
     "decimals": 0
   },
   {
@@ -1408,6 +1408,10 @@
     "decimals": 6
   },
   {
+    "assetId": "6c02bdd3eae555709203edc7e1a9e99f6bb542c7f75fe4ed33fc91454269744d616e696148617264666f726b446179",
+    "ticker": "33"
+  },
+  {
     "assetId": "6acb7c816f839148e2140427b181662380e3074616cbcfb0e644df9a634d455441",
     "ticker": "cMETA"
   },
@@ -1417,45 +1421,21 @@
     "decimals": 6
   },
   {
-    "assetId": "6bb83d9fa70c0ec9b33564bd5ba61b78e35f2f89278098852c2cad8253616E746F546F6B656E3231303035",
-    "ticker": "Santo"
-  },
-  {
-    "assetId": "6c02bdd3eae555709203edc7e1a9e99f6bb542c7f75fe4ed33fc91454269744d616e696148617264666f726b446179",
-    "ticker": "33"
-  },
-  {
     "assetId": "6c58e1568def6d2666070920ffaaeafa7c04f9538bc4fb33e2df833d536c61796572",
     "ticker": "SLAYR",
     "decimals": 0
   },
   {
-    "assetId": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
-    "ticker": "EMP",
-    "decimals": 6
-  },
-  {
-    "assetId": "6d07aa9514ceb33ce2070222a6ea92bb704200a9f2d82406657af1304c4f5645",
-    "ticker": "LOVE"
-  },
-  {
-    "assetId": "6f69a35a962c154bab4f2de4d9e116043697c333ade763c2b46fce6e41414441",
-    "ticker": "AADA",
-    "decimals": 0
-  },
-  {
-    "assetId": "6d82a79eb013124b41166f81c3f2e75f127495306784fab8e30113bc5452554d50",
-    "ticker": "TRUMP",
-    "decimals": 0
-  },
-  {
-    "assetId": "6e6520481ed41a9e82a227ff82f51ea1b28633e09ed84a52d20e695272617465636f696e",
-    "ticker": "RATE",
-    "decimals": 4
+    "assetId": "6bb83d9fa70c0ec9b33564bd5ba61b78e35f2f89278098852c2cad8253616E746F546F6B656E3231303035",
+    "ticker": "Santo"
   },
   {
     "assetId": "6d5a1b23861fd4b301ba811c78464b767e18c1f25f70db6a96fb1009536167696e6177",
     "ticker": "SAG"
+  },
+  {
+    "assetId": "6d07aa9514ceb33ce2070222a6ea92bb704200a9f2d82406657af1304c4f5645",
+    "ticker": "LOVE"
   },
   {
     "assetId": "6d620b3adb0ae33508d500b3c0c24c0434448ba4d9e7450eb0bfae5854484d",
@@ -1463,31 +1443,36 @@
     "decimals": 2
   },
   {
-    "assetId": "7192cee89b2cd731152e60de5fd849f3930c24ac97f6daca09b54cf34c6f7665",
-    "ticker": "Love"
+    "assetId": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
+    "ticker": "EMP",
+    "decimals": 6
   },
   {
-    "assetId": "713c9183d15403b37628115d9226aeb976cb32c163a7e130f8bfbdf8436861696e4368696c6c617a",
-    "ticker": "CCN",
+    "assetId": "6f69a35a962c154bab4f2de4d9e116043697c333ade763c2b46fce6e41414441",
+    "ticker": "AADA",
     "decimals": 0
+  },
+  {
+    "assetId": "7294d744cd478c94894c63e20c656da113cc442954dc4516dda9788e5443",
+    "ticker": "TC"
   },
   {
     "assetId": "7192cee89b2cd731152e60de5fd849f3930c24ac97f6daca09b54cf35065616365",
     "ticker": "Peace"
   },
   {
+    "assetId": "6e6520481ed41a9e82a227ff82f51ea1b28633e09ed84a52d20e695272617465636f696e",
+    "ticker": "RATE",
+    "decimals": 4
+  },
+  {
+    "assetId": "6d82a79eb013124b41166f81c3f2e75f127495306784fab8e30113bc5452554d50",
+    "ticker": "TRUMP",
+    "decimals": 0
+  },
+  {
     "assetId": "73a87b029df044f49c6603d13deb8b5ccc12cad1ed2c399bbd93f7c742555454",
     "ticker": "BUTT"
-  },
-  {
-    "assetId": "747ced8acca43caeedc14a6d110550c937868fb276beb639c0fa297f524156454e5343414d",
-    "ticker": "RAVE",
-    "decimals": 10
-  },
-  {
-    "assetId": "742ea5751fdebe89d5fde58303faebd1a1c17263b38e9c39c31b6b5e474e44",
-    "ticker": "GND",
-    "decimals": 0
   },
   {
     "assetId": "74932a125bc626a69a836691d9e23dba9f02e7433f28c3d19577d30e47484f5354",
@@ -1495,8 +1480,13 @@
     "decimals": 0
   },
   {
-    "assetId": "75be20b999d862a6b36f84a91c4384fe31bc89a114648f4c1cf13f2256414e4158",
-    "ticker": "VANAX",
+    "assetId": "72079b6bdf7e23a07c103ca41988157230d0bd3305ad1453d21b7fd8494943",
+    "ticker": "IIC",
+    "decimals": 2
+  },
+  {
+    "assetId": "742ea5751fdebe89d5fde58303faebd1a1c17263b38e9c39c31b6b5e474e44",
+    "ticker": "GND",
     "decimals": 0
   },
   {
@@ -1505,8 +1495,18 @@
     "decimals": 0
   },
   {
+    "assetId": "747ced8acca43caeedc14a6d110550c937868fb276beb639c0fa297f524156454e5343414d",
+    "ticker": "RAVE",
+    "decimals": 10
+  },
+  {
     "assetId": "750900e4999ebe0d58f19b634768ba25e525aaf12403bfe8fe130501424f4f4b",
     "ticker": "BOOK",
+    "decimals": 0
+  },
+  {
+    "assetId": "75be20b999d862a6b36f84a91c4384fe31bc89a114648f4c1cf13f2256414e4158",
+    "ticker": "VANAX",
     "decimals": 0
   },
   {
@@ -1514,22 +1514,13 @@
     "ticker": "SWIFT"
   },
   {
+    "assetId": "713c9183d15403b37628115d9226aeb976cb32c163a7e130f8bfbdf8436861696e4368696c6c617a",
+    "ticker": "CCN",
+    "decimals": 0
+  },
+  {
     "assetId": "776da8416dc56107275424b009eb82353235f10ef8e0b77088fd79645472757374436f696e",
     "ticker": "Trust"
-  },
-  {
-    "assetId": "777a3c35a511eab51b6ed95cfe31b5a19f55cc54c7dd39413db9e5ca373737",
-    "ticker": "₳777₳"
-  },
-  {
-    "assetId": "798d5d1aff84174779a57908058a6283b09fc8b6bfccdbee2115b51e544f454d",
-    "ticker": "TOEM",
-    "decimals": 6
-  },
-  {
-    "assetId": "72079b6bdf7e23a07c103ca41988157230d0bd3305ad1453d21b7fd8494943",
-    "ticker": "IIC",
-    "decimals": 2
   },
   {
     "assetId": "78cfc6ee236bf63e360d423158d1b6c11628d268c9c7f9264bf048fa44564c",
@@ -1537,12 +1528,17 @@
     "decimals": 0
   },
   {
-    "assetId": "7a54c5ba2111ee8d949f1c61f1045e979f6c69dac1717e470c6f75dd43617264616e6f42696a6f",
-    "ticker": "abijo"
+    "assetId": "777a3c35a511eab51b6ed95cfe31b5a19f55cc54c7dd39413db9e5ca373737",
+    "ticker": "₳777₳"
   },
   {
     "assetId": "782c158a98aed3aa676d9c85117525dcf3acc5506a30a8d87369fbcb4d6f6e6574",
     "ticker": "MONET",
+    "decimals": 6
+  },
+  {
+    "assetId": "798d5d1aff84174779a57908058a6283b09fc8b6bfccdbee2115b51e544f454d",
+    "ticker": "TOEM",
     "decimals": 6
   },
   {
@@ -1551,21 +1547,21 @@
     "decimals": 0
   },
   {
+    "assetId": "7a72f9007e5200cdd32840a9d5cfb0963d68083962fb96a8c61458f8706965746f6b656e",
+    "ticker": "pie"
+  },
+  {
     "assetId": "7b4e2c5b26957369201cb6937439c613c9621a7b61d8f43dea5f35be446563696d616c546f6b656e",
     "ticker": "DCM",
     "decimals": 4
   },
   {
-    "assetId": "7a72f9007e5200cdd32840a9d5cfb0963d68083962fb96a8c61458f8706965746f6b656e",
-    "ticker": "pie"
+    "assetId": "7a54c5ba2111ee8d949f1c61f1045e979f6c69dac1717e470c6f75dd43617264616e6f42696a6f",
+    "ticker": "abijo"
   },
   {
     "assetId": "7b6780751ae8a606bff374bde0e49c4f979c46989ef5a6affed6332b53686974636f696e",
     "ticker": "SHIT"
-  },
-  {
-    "assetId": "7294d744cd478c94894c63e20c656da113cc442954dc4516dda9788e5443",
-    "ticker": "TC"
   },
   {
     "assetId": "7cd6d42b1ab5360b18491d52b1af366749fac4d1829e369efba014604d494c4553",
@@ -1573,13 +1569,13 @@
     "decimals": 8
   },
   {
-    "assetId": "7e7dbfe44b4145a2f994a9c649ce84a3ee0706f06e9ec82360e0f64250494e54",
-    "ticker": "PINT",
+    "assetId": "7d0ad1c63fba04797b34a99fdaf4cd2a5cd302af8902406c543a20e169414441",
+    "ticker": "iADA",
     "decimals": 0
   },
   {
-    "assetId": "7d0ad1c63fba04797b34a99fdaf4cd2a5cd302af8902406c543a20e169414441",
-    "ticker": "iADA",
+    "assetId": "7e7dbfe44b4145a2f994a9c649ce84a3ee0706f06e9ec82360e0f64250494e54",
+    "ticker": "PINT",
     "decimals": 0
   },
   {
@@ -1602,17 +1598,9 @@
     "ticker": "wagmi"
   },
   {
-    "assetId": "813d67b5898115d3bf49a1ac491e5f3908bd930b6e6e042ea4a1b11247494741",
-    "ticker": "GIGA"
-  },
-  {
     "assetId": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
     "ticker": "VYFI",
     "decimals": 6
-  },
-  {
-    "assetId": "810bf7f8c9410ec9bdfbb0e37c02e8fe2718168d1b9551e0ba60c9d364616e6479",
-    "ticker": "dndy"
   },
   {
     "assetId": "81c2d1d3889263e68644b2a71db9e49528001d3635328f74c009698347494c",
@@ -1625,13 +1613,21 @@
     "decimals": 0
   },
   {
-    "assetId": "834df694fffed553fc565b04b08ddbbd668e90d9214326a16fff471848415244",
-    "ticker": "HARD",
-    "decimals": 0
+    "assetId": "813d67b5898115d3bf49a1ac491e5f3908bd930b6e6e042ea4a1b11247494741",
+    "ticker": "GIGA"
   },
   {
     "assetId": "83b65a6bf87e0f52cf3ccd4a4c4a0503d939f3a51d11fc253f612fc84f52414558434f494e",
     "ticker": "ORX"
+  },
+  {
+    "assetId": "810bf7f8c9410ec9bdfbb0e37c02e8fe2718168d1b9551e0ba60c9d364616e6479",
+    "ticker": "dndy"
+  },
+  {
+    "assetId": "83e400c8c6540f6075d259a4fa0140ff4ddbd85f1ab14d7bda017a6e4d656c6f6f74",
+    "ticker": "LADA",
+    "decimals": 8
   },
   {
     "assetId": "83ae38349ebc09f35e78f603cb716a0329ce2e34587e57b3c80619d84d4e52",
@@ -1644,13 +1640,13 @@
     "decimals": 0
   },
   {
-    "assetId": "83e400c8c6540f6075d259a4fa0140ff4ddbd85f1ab14d7bda017a6e4d656c6f6f74",
-    "ticker": "LADA",
-    "decimals": 8
-  },
-  {
     "assetId": "8654e8b350e298c80d2451beb5ed80fc9eee9f38ce6b039fb8706bc34c4f4253544552",
     "ticker": "$LOBSTER"
+  },
+  {
+    "assetId": "867876c57c25425629cd0ea98c2c3424753867b2d64da5132447e1c84a554e474c45",
+    "ticker": "JUNGL",
+    "decimals": 0
   },
   {
     "assetId": "85f71c78766a7fb4b1d34d0247cd2f625b806a95956dcaa7013580a443425443",
@@ -1662,15 +1658,6 @@
     "ticker": "LAC"
   },
   {
-    "assetId": "867876c57c25425629cd0ea98c2c3424753867b2d64da5132447e1c84a554e474c45",
-    "ticker": "JUNGL",
-    "decimals": 0
-  },
-  {
-    "assetId": "87a59599f8f47db431de642329a275cd4b297f21f1517af9db442cee506f705570576f726c64",
-    "ticker": "PUW"
-  },
-  {
     "assetId": "8738f0cf67f9b3585b889f288fe104a41c7988e97355d1308e5cecb1746f736861636f696e",
     "ticker": "TOC"
   },
@@ -1680,8 +1667,13 @@
     "decimals": 0
   },
   {
-    "assetId": "885742cd7e0dad321622b5d3ad186797bd50c44cbde8b48be1583fbd534b554c4c",
-    "ticker": "SKULL"
+    "assetId": "87a59599f8f47db431de642329a275cd4b297f21f1517af9db442cee506f705570576f726c64",
+    "ticker": "PUW"
+  },
+  {
+    "assetId": "88691a70bb0fe49cf9124b4f78553c36c09fa6264844e2b2941191734575736b6f",
+    "ticker": "EUS",
+    "decimals": 0
   },
   {
     "assetId": "884892bcdc360bcef87d6b3f806e7f9cd5ac30d999d49970e7a903ae5041564941",
@@ -1694,13 +1686,12 @@
     "decimals": 6
   },
   {
-    "assetId": "88691a70bb0fe49cf9124b4f78553c36c09fa6264844e2b2941191734575736b6f",
-    "ticker": "EUS",
-    "decimals": 0
-  },
-  {
     "assetId": "89267e9a35153a419e1b8ffa23e511ac39ea4e3b00452e9d500f2982436176616c6965724b696e67436861726c6573",
     "ticker": "Charly"
+  },
+  {
+    "assetId": "885742cd7e0dad321622b5d3ad186797bd50c44cbde8b48be1583fbd534b554c4c",
+    "ticker": "SKULL"
   },
   {
     "assetId": "89ae7a3c1cbfbe8fcaed5387eac0cce3ae8402cc995fd9e7fd271ba153544f5269",
@@ -1722,14 +1713,6 @@
     "decimals": 4
   },
   {
-    "assetId": "8cf66d8c74af3aa53ba498b0d3f18a21f7ed3d12128850bb2b61146d",
-    "ticker": "APEX"
-  },
-  {
-    "assetId": "8cbb002bea19ff8a407714e457d43de53afe13c6ca6d673ddb9e7672506F707079476F6F645075707079",
-    "ticker": "POPPY"
-  },
-  {
     "assetId": "8cbb002bea19ff8a407714e457d43de53afe13c6ca6d673ddb9e767259656C6C6F77526976657253706F6F6B79",
     "ticker": "YRSPK"
   },
@@ -1739,21 +1722,29 @@
     "decimals": 0
   },
   {
+    "assetId": "8cf66d8c74af3aa53ba498b0d3f18a21f7ed3d12128850bb2b61146d",
+    "ticker": "APEX"
+  },
+  {
+    "assetId": "8cbb002bea19ff8a407714e457d43de53afe13c6ca6d673ddb9e7672506F707079476F6F645075707079",
+    "ticker": "POPPY"
+  },
+  {
     "assetId": "8cf66d8c74af3aa53ba498b0d3f18a21f7ed3d12128850bb2b61146d61706578636f696e",
     "ticker": "APEX"
   },
   {
-    "assetId": "8f52f6a88acf6127bc4758a16b6047afc4da7887feae121ec217b75a534e4f57",
-    "ticker": "SNOW",
-    "decimals": 0
+    "assetId": "8dbbcc1c0c5c7af09dbe4f086ebb1d1df352e4c714c0c37928e4bb64447973746f626c6f636b",
+    "ticker": "dtb08"
   },
   {
     "assetId": "8f91f44d47aa98aa972dd00b4f05c1e1688f667d20b9aa844330da7b4d4f4f4e",
     "ticker": "MOON"
   },
   {
-    "assetId": "8dbbcc1c0c5c7af09dbe4f086ebb1d1df352e4c714c0c37928e4bb64447973746f626c6f636b",
-    "ticker": "dtb08"
+    "assetId": "8f52f6a88acf6127bc4758a16b6047afc4da7887feae121ec217b75a534e4f57",
+    "ticker": "SNOW",
+    "decimals": 0
   },
   {
     "assetId": "8f9265ef631fe72065b23b852ac0b7dc7cee90db72c454f308f92133546967657231",
@@ -1768,18 +1759,14 @@
     "ticker": "Tiger"
   },
   {
-    "assetId": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
-    "ticker": "AADA",
-    "decimals": 6
-  },
-  {
-    "assetId": "8fb112f28bbc5b7479810c6e2f28badbaf3eb26fe3ad0591a896386e454e534f",
-    "ticker": "ENS"
-  },
-  {
     "assetId": "90dcf637d6c683aa82a27177cda8dc4856cde44e678f5700ac8455344d75727068",
     "ticker": "MURPH",
     "decimals": 2
+  },
+  {
+    "assetId": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
+    "ticker": "AADA",
+    "decimals": 6
   },
   {
     "assetId": "9160c9791013c46dc1f17d65d959bfcd5d0c56bf770d35cb4a90b9db415741",
@@ -1787,13 +1774,17 @@
     "decimals": 8
   },
   {
-    "assetId": "923b89ef713c0dbc615b60402d39f90d89b4a16ad78638544624951a6d6f726e696e677669626573",
-    "ticker": "MRNVB"
+    "assetId": "9352fb70f7445952b845bb9e8921a7129fa0c41df43efcadef5dc7b26f7669436f696e",
+    "ticker": "OVI",
+    "decimals": 6
   },
   {
-    "assetId": "92c2599c52c3f93235f69c9769c99633772746fa9bfb40b989c07d8c49414d58",
-    "ticker": "IAMX",
-    "decimals": 0
+    "assetId": "8fb112f28bbc5b7479810c6e2f28badbaf3eb26fe3ad0591a896386e454e534f",
+    "ticker": "ENS"
+  },
+  {
+    "assetId": "923b89ef713c0dbc615b60402d39f90d89b4a16ad78638544624951a6d6f726e696e677669626573",
+    "ticker": "MRNVB"
   },
   {
     "assetId": "930e8463d55719da8585e48477f26a7a437e162bc332b85299976cee494443",
@@ -1801,22 +1792,13 @@
     "decimals": 6
   },
   {
-    "assetId": "93c6e56b8802c114dcf55ea21dd993f881906253b00dcf2f580b179f53544152",
-    "ticker": "STAR"
-  },
-  {
-    "assetId": "9352fb70f7445952b845bb9e8921a7129fa0c41df43efcadef5dc7b26f7669436f696e",
-    "ticker": "OVI",
-    "decimals": 6
-  },
-  {
-    "assetId": "954a1f018ac1cbb27dbe1c546adfabae535d01f8cfc9d22d04245c1d54444b",
-    "ticker": "TDK",
+    "assetId": "92c2599c52c3f93235f69c9769c99633772746fa9bfb40b989c07d8c49414d58",
+    "ticker": "IAMX",
     "decimals": 0
   },
   {
-    "assetId": "95ef5dbf5b53c55f3c180b3c93d9ca18b56b0e3c2706689db0267ff1486f736b794d656d6f7269616c",
-    "ticker": "HM"
+    "assetId": "93c6e56b8802c114dcf55ea21dd993f881906253b00dcf2f580b179f53544152",
+    "ticker": "STAR"
   },
   {
     "assetId": "94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c135864",
@@ -1824,8 +1806,14 @@
     "decimals": 8
   },
   {
-    "assetId": "95ffa86e5cb36c59eca0297bda2eaa9cf671d3283738f4b6549d5b37474f434356",
-    "ticker": "GOCCV"
+    "assetId": "954a1f018ac1cbb27dbe1c546adfabae535d01f8cfc9d22d04245c1d54444b",
+    "ticker": "TDK",
+    "decimals": 0
+  },
+  {
+    "assetId": "94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c13586452455655",
+    "ticker": "REVU",
+    "decimals": 8
   },
   {
     "assetId": "976e5f73871e03089e428a8773f78ea7368002b3dd722b54a72ad6584d6e4d",
@@ -1836,6 +1824,14 @@
     "assetId": "97747aa3c33fdfe4b5faa7bb8b4534932c6d980cb13c14c5a547e7ca70757272414441",
     "ticker": "purrADA",
     "decimals": 6
+  },
+  {
+    "assetId": "95ffa86e5cb36c59eca0297bda2eaa9cf671d3283738f4b6549d5b37474f434356",
+    "ticker": "GOCCV"
+  },
+  {
+    "assetId": "95ef5dbf5b53c55f3c180b3c93d9ca18b56b0e3c2706689db0267ff1486f736b794d656d6f7269616c",
+    "ticker": "HM"
   },
   {
     "assetId": "9788f9c5bd5f0ad53551da84739bf68d520da224b8cfee8cca94700e524143",
@@ -1853,8 +1849,17 @@
     "decimals": 0
   },
   {
+    "assetId": "99ae4e7d4c46b635df7831cb56dd75e6fe081e9525cdcd39fe3a61cf436F6F6C477579436C7562",
+    "ticker": "COOLG"
+  },
+  {
     "assetId": "98c9e8f22aa7288c39fcbd29e4ebc5b7371de0e06f587e8982914302534f554c",
     "ticker": "SOUL",
+    "decimals": 6
+  },
+  {
+    "assetId": "99a86d3c27d1bd39d74985084fb6e5f2af77f0d169b7c1f726c5581542594e4554",
+    "ticker": "BYNET",
     "decimals": 6
   },
   {
@@ -1863,32 +1868,23 @@
     "decimals": 2
   },
   {
-    "assetId": "94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c13586452455655",
-    "ticker": "REVU",
-    "decimals": 8
-  },
-  {
-    "assetId": "99a86d3c27d1bd39d74985084fb6e5f2af77f0d169b7c1f726c5581542594e4554",
-    "ticker": "BYNET",
-    "decimals": 6
-  },
-  {
-    "assetId": "99ae4e7d4c46b635df7831cb56dd75e6fe081e9525cdcd39fe3a61cf436F6F6C477579436C7562",
-    "ticker": "COOLG"
-  },
-  {
-    "assetId": "99ae4e7d4c46b635df7831cb56dd75e6fe081e9525cdcd39fe3a61cf54696C746564477579",
-    "ticker": "TLTGY"
-  },
-  {
-    "assetId": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
-    "ticker": "SUNDAE",
-    "decimals": 6
+    "assetId": "7192cee89b2cd731152e60de5fd849f3930c24ac97f6daca09b54cf34c6f7665",
+    "ticker": "Love"
   },
   {
     "assetId": "9ad3d0606caaa87f4536f0d08d36b4819fb46237cd4349a728b96800494e4b",
     "ticker": "INK",
     "decimals": 0
+  },
+  {
+    "assetId": "834df694fffed553fc565b04b08ddbbd668e90d9214326a16fff471848415244",
+    "ticker": "HARD",
+    "decimals": 0
+  },
+  {
+    "assetId": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
+    "ticker": "SUNDAE",
+    "decimals": 6
   },
   {
     "assetId": "9b8990e26c63b6545ed9cfb9fd315a1b6d51f658cf5b579b68e9ba28444154",
@@ -1901,31 +1897,21 @@
     "decimals": 0
   },
   {
-    "assetId": "9d542ff00d7c8af217f5d669e51b8ee065f84f02dc4e628b6850dccf4455505059",
-    "ticker": "DUPPY",
-    "decimals": 0
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032314c6567656e6461727931",
+    "ticker": "iSg01"
+  },
+  {
+    "assetId": "99ae4e7d4c46b635df7831cb56dd75e6fe081e9525cdcd39fe3a61cf54696C746564477579",
+    "ticker": "TLTGY"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231526172653130",
+    "ticker": "iSr10"
   },
   {
     "assetId": "9cb9e829158c87919e52ec4230debb4ae146960984cfd1f7409c423f41474f4e59",
     "ticker": "AGONY",
     "decimals": 0
-  },
-  {
-    "assetId": "9d86482511c8a49f21d5c83ee58a49e2926f70ac57dd73ed204042697175657374",
-    "ticker": "QTS",
-    "decimals": 0
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032314c6567656e6461727931",
-    "ticker": "iSg01"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726531",
-    "ticker": "iSr01"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231526172653130",
-    "ticker": "iSr10"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726532",
@@ -1936,20 +1922,18 @@
     "ticker": "iSr03"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726534",
-    "ticker": "iSr04"
+    "assetId": "9d86482511c8a49f21d5c83ee58a49e2926f70ac57dd73ed204042697175657374",
+    "ticker": "QTS",
+    "decimals": 0
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726535",
     "ticker": "iSr05"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726536",
-    "ticker": "iSr06"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726537",
-    "ticker": "iSr07"
+    "assetId": "9d542ff00d7c8af217f5d669e51b8ee065f84f02dc4e628b6850dccf4455505059",
+    "ticker": "DUPPY",
+    "decimals": 0
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726538",
@@ -1960,84 +1944,88 @@
     "ticker": "iSr09"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3031",
-    "ticker": "iSu01"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3033",
-    "ticker": "iSu03"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3034",
-    "ticker": "iSu04"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3035",
-    "ticker": "iSu05"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726534",
+    "ticker": "iSr04"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3032",
     "ticker": "iSu02"
   },
   {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726537",
+    "ticker": "iSr07"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3031",
+    "ticker": "iSu01"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726536",
+    "ticker": "iSr06"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3034",
+    "ticker": "iSu04"
+  },
+  {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3036",
     "ticker": "iSu06"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3037",
-    "ticker": "iSu07"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3033",
+    "ticker": "iSu03"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3035",
+    "ticker": "iSu05"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3039",
     "ticker": "iSu09"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3038",
-    "ticker": "iSu08"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3037",
+    "ticker": "iSu07"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3130",
     "ticker": "iSu10"
   },
   {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3038",
+    "ticker": "iSu08"
+  },
+  {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3131",
     "ticker": "iSu11"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3132",
-    "ticker": "iSu12"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3133",
-    "ticker": "iSu13"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3135",
-    "ticker": "iSu15"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3134",
     "ticker": "iSu14"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3137",
-    "ticker": "iSu17"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3133",
+    "ticker": "iSu13"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3132",
+    "ticker": "iSu12"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3135",
+    "ticker": "iSu15"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3136",
     "ticker": "iSu16"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3139",
-    "ticker": "iSu19"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3138",
-    "ticker": "iSu18"
-  },
-  {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3230",
     "ticker": "iSu20"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3137",
+    "ticker": "iSu17"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3231",
@@ -2048,8 +2036,12 @@
     "ticker": "iSu22"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3233",
-    "ticker": "iSu23"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3138",
+    "ticker": "iSu18"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3139",
+    "ticker": "iSu19"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3234",
@@ -2060,32 +2052,28 @@
     "ticker": "iSu25"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3239",
-    "ticker": "iSu29"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3237",
-    "ticker": "iSu27"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3233",
+    "ticker": "iSu23"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3236",
     "ticker": "iSu26"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3238",
-    "ticker": "iSu28"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3239",
+    "ticker": "iSu29"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3330",
     "ticker": "iSu30"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3333",
-    "ticker": "iSu33"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3238",
+    "ticker": "iSu28"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3331",
-    "ticker": "iSu31"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3237",
+    "ticker": "iSu27"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3332",
@@ -2096,6 +2084,14 @@
     "ticker": "iSu34"
   },
   {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3331",
+    "ticker": "iSu31"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3333",
+    "ticker": "iSu33"
+  },
+  {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3335",
     "ticker": "iSu35"
   },
@@ -2104,28 +2100,28 @@
     "ticker": "iSu36"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3337",
-    "ticker": "iSu37"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3338",
-    "ticker": "iSu38"
-  },
-  {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3339",
     "ticker": "iSu39"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3431",
-    "ticker": "iSu41"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3430",
     "ticker": "iSu40"
   },
   {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3431",
+    "ticker": "iSu41"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3337",
+    "ticker": "iSu37"
+  },
+  {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3432",
     "ticker": "iSu42"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3338",
+    "ticker": "iSu38"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3434",
@@ -2136,49 +2132,53 @@
     "ticker": "iSu43"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3436",
-    "ticker": "iSu46"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3435",
-    "ticker": "iSu45"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3439",
+    "ticker": "iSu49"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3438",
     "ticker": "iSu48"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3437",
-    "ticker": "iSu47"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3530",
+    "ticker": "iSu50"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3439",
-    "ticker": "iSu49"
-  },
-  {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231566572795261726532",
-    "ticker": "iSv02"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb276973323032315261726531",
+    "ticker": "iSr01"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231566572795261726531",
     "ticker": "iSv01"
   },
   {
-    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3530",
-    "ticker": "iSu50"
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3437",
+    "ticker": "iSu47"
   },
   {
-    "assetId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
-    "ticker": "HOSKY",
-    "decimals": 0
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3436",
+    "ticker": "iSu46"
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231566572795261726534",
     "ticker": "iSv04"
   },
   {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231556e636f6d6d6f6e3435",
+    "ticker": "iSu45"
+  },
+  {
+    "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231566572795261726532",
+    "ticker": "iSv02"
+  },
+  {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231566572795261726533",
     "ticker": "iSv03"
+  },
+  {
+    "assetId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+    "ticker": "HOSKY",
+    "decimals": 0
   },
   {
     "assetId": "9f08954f0b48614bc6142682b72aec31ab5db6156fcd180ca89adb27697332303231566572795261726535",
@@ -2199,6 +2199,11 @@
     "decimals": 0
   },
   {
+    "assetId": "a2e2b51b3a8a631f68d4d114ab51e878b655b762ed1830e4966c31894b494c4f",
+    "ticker": "KILO",
+    "decimals": 3
+  },
+  {
     "assetId": "a260c57670860519571203e389a6388b7114ab8dbba7fd3a9c4e5da5244c4742545149412b",
     "ticker": "LGBTQ",
     "decimals": 0
@@ -2208,27 +2213,22 @@
     "ticker": "GRAM"
   },
   {
-    "assetId": "a2e2b51b3a8a631f68d4d114ab51e878b655b762ed1830e4966c31894b494c4f",
-    "ticker": "KILO",
-    "decimals": 3
+    "assetId": "a318cd3ed8585a56a6c9c649f0be0a7fd42bcbb29d162d98864eec1d6d656c",
+    "ticker": "MEL"
   },
   {
     "assetId": "a32ea58b0d2d0afedddb31dd2e9596c5e3de3451eea207a929574aa4426f62636f696e",
     "ticker": "BOBC"
   },
   {
-    "assetId": "a318cd3ed8585a56a6c9c649f0be0a7fd42bcbb29d162d98864eec1d6d656c",
-    "ticker": "MEL"
+    "assetId": "a3914cb7a564d010c7b67774ac8720a8ece3a758279b51d8a1c05cc55745444e4553444159",
+    "ticker": "WDAY",
+    "decimals": 0
   },
   {
     "assetId": "a3baedaa9d230853839ee8c3c057ffec44fd51421a3ca1b8d48926414d454c44",
     "ticker": "MELD",
     "decimals": 4
-  },
-  {
-    "assetId": "a3914cb7a564d010c7b67774ac8720a8ece3a758279b51d8a1c05cc55745444e4553444159",
-    "ticker": "WDAY",
-    "decimals": 0
   },
   {
     "assetId": "a3bbcab3c60de005248e10c8ef07b2ce0c1d8a5805c6214feeb4b6ce48616e647a",
@@ -2239,16 +2239,16 @@
     "ticker": "HANDZ"
   },
   {
-    "assetId": "a4da8764a57e66a0085b5bfcde96c89b798d92ee83a75f59237e375b46495245",
-    "ticker": "FIRE"
-  },
-  {
     "assetId": "a3c6fa060ad82514b33dca8d878d583f6ab4b165229a58effcc1fb56474f41534649434b",
     "ticker": "GFICK",
     "decimals": 0
   },
   {
-    "assetId": "a54ff09b92097b3c262ba2a4f7c0fc12c9abd485fba9f041708af0e2447973746F626C6F636B",
+    "assetId": "a4da8764a57e66a0085b5bfcde96c89b798d92ee83a75f59237e375b46495245",
+    "ticker": "FIRE"
+  },
+  {
+    "assetId": "a54ff09b92097b3c262ba2a4f7c0fc12c9abd485fba9f041708af0e2447973746F626C6F636B303130",
     "ticker": "dtb08"
   },
   {
@@ -2257,26 +2257,26 @@
     "decimals": 3
   },
   {
-    "assetId": "a561173b1e3f145933f94351f79e16b6f90dc8d549ac6f26867233c04144415045",
-    "ticker": "ADAPE",
-    "decimals": 0
+    "assetId": "a54ff09b92097b3c262ba2a4f7c0fc12c9abd485fba9f041708af0e2447973746F626C6F636B",
+    "ticker": "dtb08"
   },
   {
     "assetId": "a68e882440e1a7b152e59e6e43f9fae69640e53ea4c3ec0a1d086cdb4D6564696F637265417274",
     "ticker": "MEDI"
   },
   {
-    "assetId": "a54ff09b92097b3c262ba2a4f7c0fc12c9abd485fba9f041708af0e2447973746F626C6F636B303130",
-    "ticker": "dtb08"
+    "assetId": "a7091228d2e08132ca5274f7e0a0cd40be3b90d9b4c295d8fce85778785878",
+    "ticker": "xXx",
+    "decimals": 0
+  },
+  {
+    "assetId": "a561173b1e3f145933f94351f79e16b6f90dc8d549ac6f26867233c04144415045",
+    "ticker": "ADAPE",
+    "decimals": 0
   },
   {
     "assetId": "a6124329634b5c500fefbbbeb78c76c6a6560806700e234b7a812db04652455941",
     "ticker": "FREYA"
-  },
-  {
-    "assetId": "a7091228d2e08132ca5274f7e0a0cd40be3b90d9b4c295d8fce85778785878",
-    "ticker": "xXx",
-    "decimals": 0
   },
   {
     "assetId": "a6b296082cbe3f3ce7cee8ca42e36a7f4713791d4c0c0876c687447a4355534443",
@@ -2289,13 +2289,22 @@
     "decimals": 6
   },
   {
+    "assetId": "a89568bb399d0cdc38367e47831c95186f5c79e58174e08a1823239645544220464320546f6b656e",
+    "ticker": "ETB",
+    "decimals": 6
+  },
+  {
     "assetId": "a8608df12a746799565a277c8c42cea5d1ee0bc9134f60e0cc72e16f4275747446617274546f6b656e",
     "ticker": "BUTT"
   },
   {
-    "assetId": "a89568bb399d0cdc38367e47831c95186f5c79e58174e08a1823239645544220464320546f6b656e",
+    "assetId": "a89568bb399d0cdc38367e47831c95186f5c79e58174e08a182323964554424643546f6b656e",
     "ticker": "ETB",
     "decimals": 6
+  },
+  {
+    "assetId": "a9520e6b8b38deaf63316131574705c491fa6c49218cec3b126e6bcd445377697373",
+    "ticker": "DSW"
   },
   {
     "assetId": "a9aafb044b19ea5b63d4dae679d2466bb6d97130c3c2fd19f8210bed4348455353",
@@ -2308,21 +2317,12 @@
     "decimals": 0
   },
   {
-    "assetId": "a9520e6b8b38deaf63316131574705c491fa6c49218cec3b126e6bcd445377697373",
-    "ticker": "DSW"
-  },
-  {
-    "assetId": "a89568bb399d0cdc38367e47831c95186f5c79e58174e08a182323964554424643546f6b656e",
-    "ticker": "ETB",
-    "decimals": 6
+    "assetId": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b265461726f74546f6b656e73",
+    "ticker": "TFT"
   },
   {
     "assetId": "aa777495d100990172093883758b7b4603ee7686fc98b8839eda52aa5043444332303231",
     "ticker": "PC202"
-  },
-  {
-    "assetId": "aafd0fd4cde4bdd9e7e137b27911b559c9fb0d665d8512e000f58b265461726f74546f6b656e73",
-    "ticker": "TFT"
   },
   {
     "assetId": "aade58db4fba94b78ad08a1a240b9c8630fd07421d936dc939c78ab3494e4459",
@@ -2330,22 +2330,18 @@
     "decimals": 6
   },
   {
-    "assetId": "ab942642d06451ed02864ca7e016e733062ae1f796b16b4dd20d79ea447973746f626c6f636b",
-    "ticker": "dtb08"
-  },
-  {
     "assetId": "ab82228ecfaccfc280a3b064e9c3492e6dfd03073ffee08c9e474b6a435245414d59",
     "ticker": "CREAM",
     "decimals": 0
   },
   {
+    "assetId": "ab942642d06451ed02864ca7e016e733062ae1f796b16b4dd20d79ea447973746f626c6f636b",
+    "ticker": "dtb08"
+  },
+  {
     "assetId": "ac46a8ad5308459a023e60513d58c433c22fbf4dcf7f7857c50ddae44342444752",
     "ticker": "CBDGR",
     "decimals": 0
-  },
-  {
-    "assetId": "abdaf627f607e9ef12e6d4c9ba5f30fe3802a47275e502c63f2f41fd6269746368636f696e",
-    "ticker": "BITCH"
   },
   {
     "assetId": "ac46a8ad5308459a023e60513d58c433c22fbf4dcf7f7857c50ddae443424447524342444752",
@@ -2367,13 +2363,22 @@
     "decimals": 0
   },
   {
+    "assetId": "af2e27f580f7f08e93190a81f72462f153026d06450924726645891b44524950",
+    "ticker": "DRIP",
+    "decimals": 6
+  },
+  {
+    "assetId": "abdaf627f607e9ef12e6d4c9ba5f30fe3802a47275e502c63f2f41fd6269746368636f696e",
+    "ticker": "BITCH"
+  },
+  {
     "assetId": "aeacfb732277738673dbd226e524409fb4d3856c843c2298ad7b88cd7468616e6b636f696e",
     "ticker": "THANK"
   },
   {
-    "assetId": "af2e27f580f7f08e93190a81f72462f153026d06450924726645891b44524950",
-    "ticker": "DRIP",
-    "decimals": 6
+    "assetId": "b026539740f339249ac47ec32516b65b9c9047609fe23aadf020d3cf434152414d454c",
+    "ticker": "CARML",
+    "decimals": 0
   },
   {
     "assetId": "aee4cc36b26d6aec813fe04a58b9dcc21e1efb3a56aff3e852f0e8c45072696365636f696e",
@@ -2385,19 +2390,8 @@
     "decimals": 3
   },
   {
-    "assetId": "b026539740f339249ac47ec32516b65b9c9047609fe23aadf020d3cf434152414d454c",
-    "ticker": "CARML",
-    "decimals": 0
-  },
-  {
-    "assetId": "afc910d7a306d20c12903979d4935ae4307241d03245743548e767834153484942",
-    "ticker": "ASHIB",
-    "decimals": 6
-  },
-  {
-    "assetId": "b0446f1c9105f0cc5bb6bd092f5c3e523e13f8a999b31c870298fa4051554944",
-    "ticker": "QUID",
-    "decimals": 0
+    "assetId": "b225396482c83ecaf89cd7cc3b89899b0952a7dbda1cf11e9db9b1df55496e743136",
+    "ticker": "16BIT"
   },
   {
     "assetId": "b086d2a5fe677b815ae93dbcc462999688534dd2f5d539b32dcc1083524749",
@@ -2405,16 +2399,13 @@
     "decimals": 0
   },
   {
-    "assetId": "b1b41a71ea01a911682691ea87ad3822daf5d8f4cb269417fd84181c57655468696e6b49744d617474657273546f6b656e",
-    "ticker": "WTIM"
+    "assetId": "b0446f1c9105f0cc5bb6bd092f5c3e523e13f8a999b31c870298fa4051554944",
+    "ticker": "QUID",
+    "decimals": 0
   },
   {
     "assetId": "b09443d5886451f8cb2a512261bdc29d9242df8187b3c2f2b5d938354b4154434f494e",
     "ticker": "KAT"
-  },
-  {
-    "assetId": "b225396482c83ecaf89cd7cc3b89899b0952a7dbda1cf11e9db9b1df55496e743136",
-    "ticker": "16BIT"
   },
   {
     "assetId": "b225396482c83ecaf89cd7cc3b89899b0952a7dbda1cf11e9db9b1df55496e7438",
@@ -2425,8 +2416,17 @@
     "ticker": "32BIT"
   },
   {
+    "assetId": "b1b41a71ea01a911682691ea87ad3822daf5d8f4cb269417fd84181c57655468696e6b49744d617474657273546f6b656e",
+    "ticker": "WTIM"
+  },
+  {
     "assetId": "b26593517dd1d5db7f8b16163b728e7bc773f7f083db93b9a7bef49554414441",
     "ticker": "TADA",
+    "decimals": 6
+  },
+  {
+    "assetId": "b38d94e35b3e638dce7e5e0b0aeebcbe06987a118b46d3d4c042c8c26861726d6c657373636f696e",
+    "ticker": "HARM",
     "decimals": 6
   },
   {
@@ -2435,29 +2435,14 @@
     "decimals": 0
   },
   {
-    "assetId": "b38d94e35b3e638dce7e5e0b0aeebcbe06987a118b46d3d4c042c8c26861726d6c657373636f696e",
-    "ticker": "HARM",
-    "decimals": 6
-  },
-  {
-    "assetId": "b3ca85a807a2fcc7d125dc8fd3907464d97d9966f704f4fed03ebe6f486f646c722d477265656e",
-    "ticker": "HODLR",
-    "decimals": 4
-  },
-  {
     "assetId": "b4273f1d8d0021d188784c3d72dc514f602b7ab8cfb87e3134550c42446f6765414441",
     "ticker": "DGADA",
     "decimals": 0
   },
   {
-    "assetId": "b525a554ea69e4465221cbc60583a7d334dc0a9e3083684b58a95eec42415243",
-    "ticker": "BARC",
-    "decimals": 0
-  },
-  {
-    "assetId": "b588e13e123f6b79c867f507311ded8fd68015c59d238e89eabb494f424c52",
-    "ticker": "BLR",
-    "decimals": 0
+    "assetId": "b3ca85a807a2fcc7d125dc8fd3907464d97d9966f704f4fed03ebe6f486f646c722d477265656e",
+    "ticker": "HODLR",
+    "decimals": 4
   },
   {
     "assetId": "b51cfb0728a3901b1c949b88ff4a75a495a80935b5a8e27664eb997747524547",
@@ -2470,12 +2455,13 @@
     "decimals": 0
   },
   {
-    "assetId": "b84271bae9207e3604ca6c4bbbf0fd81f90f594e86b92e63135d63f144727567436f696e",
-    "ticker": "DRUG"
-  },
-  {
     "assetId": "b5b93f0b9e81fac0e74efd4dfffd713a2f24c70bac0c30f7a1a0a0e3455552",
     "ticker": "EUR"
+  },
+  {
+    "assetId": "b525a554ea69e4465221cbc60583a7d334dc0a9e3083684b58a95eec42415243",
+    "ticker": "BARC",
+    "decimals": 0
   },
   {
     "assetId": "b6dec630be794bccc2864538318ccead47bb7fe1a72da5908a9529aa5065746572",
@@ -2492,12 +2478,21 @@
     "decimals": 0
   },
   {
-    "assetId": "ba7f08838440c7bc070b8f173a9c8d843d33da20450ab62a48d0266a43617264616e6f53746f7279303031",
-    "ticker": "CS"
+    "assetId": "b84271bae9207e3604ca6c4bbbf0fd81f90f594e86b92e63135d63f144727567436f696e",
+    "ticker": "DRUG"
   },
   {
     "assetId": "b920625f479ce8a7e03ddb90d0e7b49236609a6a5fb9a70fb1683ac64d6f6e657942616773",
     "ticker": "CAPEX"
+  },
+  {
+    "assetId": "b588e13e123f6b79c867f507311ded8fd68015c59d238e89eabb494f424c52",
+    "ticker": "BLR",
+    "decimals": 0
+  },
+  {
+    "assetId": "ba7f08838440c7bc070b8f173a9c8d843d33da20450ab62a48d0266a43617264616e6f53746f7279303031",
+    "ticker": "CS"
   },
   {
     "assetId": "ba94ebd43273e746212efa82ee89abd24356454482853b799d5834cf43434343",
@@ -2505,20 +2500,25 @@
     "decimals": 0
   },
   {
-    "assetId": "b9d9c12dc24deb2b2f563521dc78f4ca3f887ed8ce934a2bdce26a453135436f6c6c656374696f6e6f6633304661636573",
-    "ticker": "Face"
+    "assetId": "bc8a19ca68787c91b58014e07718ec98a9fcd21230f83ee2326f9c73",
+    "ticker": "CHK"
   },
   {
     "assetId": "bb5324997eb1c1fda11e6510b4744a47731622ccfc31f367fe42f7cb596f756e6765724d65",
     "ticker": "YGM"
   },
   {
-    "assetId": "bc8a19ca68787c91b58014e07718ec98a9fcd21230f83ee2326f9c73",
-    "ticker": "CHK"
+    "assetId": "b9d9c12dc24deb2b2f563521dc78f4ca3f887ed8ce934a2bdce26a453135436f6c6c656374696f6e6f6633304661636573",
+    "ticker": "Face"
   },
   {
     "assetId": "bd392ff9dfe41b5af3769092c95c1931d8421ca1499df50baf148d2e454f5a",
     "ticker": "LEOZ",
+    "decimals": 0
+  },
+  {
+    "assetId": "bd6ea87bdfa064a5d025da16782e649a3f28adf1608f5cbfcfb3bf3f46494c",
+    "ticker": "FIL",
     "decimals": 0
   },
   {
@@ -2532,17 +2532,12 @@
     "decimals": 0
   },
   {
-    "assetId": "bd6ea87bdfa064a5d025da16782e649a3f28adf1608f5cbfcfb3bf3f46494c",
-    "ticker": "FIL",
-    "decimals": 0
+    "assetId": "bdfe4067beb07d634b7a495b3dfd4edd14d1626ab015c2ba2362e420536561467574757265",
+    "ticker": "CFUTR"
   },
   {
     "assetId": "bfd9766bccc0f413345dc78ccbee437bd30e94d022e7c3ff2fe273ce4269736f6e4275636b73",
     "ticker": "BiBu"
-  },
-  {
-    "assetId": "bdfe4067beb07d634b7a495b3dfd4edd14d1626ab015c2ba2362e420536561467574757265",
-    "ticker": "CFUTR"
   },
   {
     "assetId": "c089872446f88d702198a621014b44da0081a58d8d0096fbb4d1b947334c656368657343616b65",
@@ -2554,34 +2549,22 @@
     "ticker": "OEgg"
   },
   {
-    "assetId": "c17efd9ff177b1176db4163be2bb3640b4aa94b8ccae62c3a1901267474f4c44",
-    "ticker": "GOLD",
-    "decimals": 0
+    "assetId": "afc910d7a306d20c12903979d4935ae4307241d03245743548e767834153484942",
+    "ticker": "ASHIB",
+    "decimals": 6
   },
   {
     "assetId": "c0cb38a4ec36859acde16e5b887a848170bef14ed6de073ea9474e2d57495A444F4745",
     "ticker": "WZDG"
   },
   {
-    "assetId": "c2c60105b5da8c89e123a3addc4cf8eff3412f1ad9516c91e02c82fc534b4c32",
-    "ticker": "SKL2"
-  },
-  {
-    "assetId": "c1b52de984edf35066439cd231683683040a8a669913e4ede85c0bb14c696e64614c6f7665",
-    "ticker": "LLOVE"
+    "assetId": "c17efd9ff177b1176db4163be2bb3640b4aa94b8ccae62c3a1901267474f4c44",
+    "ticker": "GOLD",
+    "decimals": 0
   },
   {
     "assetId": "c2c60105b5da8c89e123a3addc4cf8eff3412f1ad9516c91e02c82fc534b4c31",
     "ticker": "SKL1"
-  },
-  {
-    "assetId": "c2118eda39aecab66dda2915346c596de07de391f5f5e610edbac0624f4652",
-    "ticker": "OFR",
-    "decimals": 0
-  },
-  {
-    "assetId": "c2c60105b5da8c89e123a3addc4cf8eff3412f1ad9516c91e02c82fc534b4c34",
-    "ticker": "SKL4"
   },
   {
     "assetId": "c2c60105b5da8c89e123a3addc4cf8eff3412f1ad9516c91e02c82fc534b4c33",
@@ -2592,16 +2575,33 @@
     "ticker": "SKL5"
   },
   {
+    "assetId": "c2c60105b5da8c89e123a3addc4cf8eff3412f1ad9516c91e02c82fc534b4c32",
+    "ticker": "SKL2"
+  },
+  {
+    "assetId": "c1b52de984edf35066439cd231683683040a8a669913e4ede85c0bb14c696e64614c6f7665",
+    "ticker": "LLOVE"
+  },
+  {
     "assetId": "c2c60105b5da8c89e123a3addc4cf8eff3412f1ad9516c91e02c82fc534b4c36",
     "ticker": "SKL6"
   },
   {
-    "assetId": "c3a45606603c891cedb336c5da2331f90a4112b41adbf2d4f7c41d0663617264616e6f206269726473",
-    "ticker": "birds"
+    "assetId": "c2c60105b5da8c89e123a3addc4cf8eff3412f1ad9516c91e02c82fc534b4c34",
+    "ticker": "SKL4"
+  },
+  {
+    "assetId": "c2118eda39aecab66dda2915346c596de07de391f5f5e610edbac0624f4652",
+    "ticker": "OFR",
+    "decimals": 0
   },
   {
     "assetId": "c4633be4cee0416c4fdb4079f3eea3a92b64b5562beae8cb04a5060d53414d4d59",
     "ticker": "SAMMY"
+  },
+  {
+    "assetId": "c3a45606603c891cedb336c5da2331f90a4112b41adbf2d4f7c41d0663617264616e6f206269726473",
+    "ticker": "birds"
   },
   {
     "assetId": "c3ce16f7b714ba96d5eeb27123c1c2ae6ebbbec580f17a7ad22d86b941676f6e79",
@@ -2609,13 +2609,13 @@
     "decimals": 0
   },
   {
-    "assetId": "c45cbb33572ab2e9ca296bdf426e0a97187a00ecc8287fa1c3ca2e5d7261746b696e67",
-    "ticker": "RK",
+    "assetId": "c4c00fbd8fa227442a5e7cdecde33b24588494d05a2c50fda8938c6d4b49445a",
+    "ticker": "KIDZ",
     "decimals": 0
   },
   {
-    "assetId": "c4c00fbd8fa227442a5e7cdecde33b24588494d05a2c50fda8938c6d4b49445a",
-    "ticker": "KIDZ",
+    "assetId": "c45cbb33572ab2e9ca296bdf426e0a97187a00ecc8287fa1c3ca2e5d7261746b696e67",
+    "ticker": "RK",
     "decimals": 0
   },
   {
@@ -2638,6 +2638,11 @@
     "decimals": 0
   },
   {
+    "assetId": "c6e8c5e0074becdec6c4eba85b2dc7e4308df7d3be02ee0c0bf8307d676f6164",
+    "ticker": "GOADA",
+    "decimals": 6
+  },
+  {
     "assetId": "c6858bf415003dc023c73eb5ca8a6d39ab2d27cb0e30f67aad199cb34f5354",
     "ticker": "OST",
     "decimals": 0
@@ -2645,6 +2650,10 @@
   {
     "assetId": "c6d397ee4cfabd25cb8ffd06c7ef43dc70ad2721ef7c105dc6bbddef5649504552",
     "ticker": "VIPER"
+  },
+  {
+    "assetId": "c79a25118b06dddc9094a547dd534046ddf9efde264ae1ab9cdf777642756c6c79",
+    "ticker": "BD"
   },
   {
     "assetId": "c7b161f1d3969d9db43a7e682c8bd36fceafd6181debb3ee45e8dc434d5554",
@@ -2657,8 +2666,13 @@
     "decimals": 0
   },
   {
-    "assetId": "c79a25118b06dddc9094a547dd534046ddf9efde264ae1ab9cdf777642756c6c79",
-    "ticker": "BD"
+    "assetId": "c898c986b97e7ac5b33e999bc11b054a9987f48ec4459f8c1ea0c32b435245414d504945",
+    "ticker": "CREAMPIE",
+    "decimals": 0
+  },
+  {
+    "assetId": "c97012d37146c374ef2b8b488c7be71f1a5a97e33851bce83a93c0944c57544f4b454e",
+    "ticker": "LWT"
   },
   {
     "assetId": "c88bbd1848db5ea665b1fffbefba86e8dcd723b5085348e8a8d2260f44414e41",
@@ -2669,20 +2683,6 @@
     "assetId": "c7dcfa416c127f630b263c7e0fe0564430cfa9c56bba43e1a37c6915474f4b4559",
     "ticker": "GOKEY",
     "decimals": 0
-  },
-  {
-    "assetId": "c6e8c5e0074becdec6c4eba85b2dc7e4308df7d3be02ee0c0bf8307d676f6164",
-    "ticker": "GOADA",
-    "decimals": 6
-  },
-  {
-    "assetId": "c898c986b97e7ac5b33e999bc11b054a9987f48ec4459f8c1ea0c32b435245414d504945",
-    "ticker": "CREAMPIE",
-    "decimals": 0
-  },
-  {
-    "assetId": "c97012d37146c374ef2b8b488c7be71f1a5a97e33851bce83a93c0944c57544f4b454e",
-    "ticker": "LWT"
   },
   {
     "assetId": "c9f955eeffa84e42363b4992281d32dd2f9239153d6c66420a9acc154c4f47",
@@ -2705,22 +2705,17 @@
     "decimals": 0
   },
   {
-    "assetId": "cac6ac6622932364027a7ef639b1f9edd1999dbfa50626b032d0361b486f757a436f696e",
-    "ticker": "HZCN"
-  },
-  {
     "assetId": "cb5ddbae91819daa32385705811a5023201cf66d50c6859a9ae7635b444f4745",
     "ticker": "DOGE ",
     "decimals": 0
   },
   {
-    "assetId": "ccc45f99f03fceed71be702b02db07b0b35815b4824dbe323ff9f3ed4c657473476f4272616e646f6e",
-    "ticker": "LGB"
+    "assetId": "cac6ac6622932364027a7ef639b1f9edd1999dbfa50626b032d0361b486f757a436f696e",
+    "ticker": "HZCN"
   },
   {
-    "assetId": "ccdd2f5e413cb5afc9ffb482d32fc175aaef6477567869ec8f0a16c1434152474f",
-    "ticker": "CARGO",
-    "decimals": 0
+    "assetId": "ccc45f99f03fceed71be702b02db07b0b35815b4824dbe323ff9f3ed4c657473476f4272616e646f6e",
+    "ticker": "LGB"
   },
   {
     "assetId": "cd5d3ed26ee75c553c7f3356c92f886f58332aa7f09e760602db7f8c43617264616d756e",
@@ -2728,9 +2723,9 @@
     "decimals": 0
   },
   {
-    "assetId": "cdaf0ae5c4cc63b2d4fbf249d4cc3d9f0cb636084a1a461e2a1af38f4355534454",
-    "ticker": "CUSDT",
-    "decimals": 6
+    "assetId": "ccdd2f5e413cb5afc9ffb482d32fc175aaef6477567869ec8f0a16c1434152474f",
+    "ticker": "CARGO",
+    "decimals": 0
   },
   {
     "assetId": "cd8a3943c579a454d196e0982468cec2467d3f3117c878b2920e29a7576f6a616b",
@@ -2738,27 +2733,27 @@
     "decimals": 4
   },
   {
-    "assetId": "d01794c4604f3c0e544c537bb1f4268c0e81f45880c00c09ebe4b4a74d595354",
-    "ticker": "MYST",
-    "decimals": 0
+    "assetId": "cdaf0ae5c4cc63b2d4fbf249d4cc3d9f0cb636084a1a461e2a1af38f4355534454",
+    "ticker": "CUSDT",
+    "decimals": 6
   },
   {
     "assetId": "d030b626219d81673bd32932d2245e0c71ae5193281f971022b23a78436172646f67656f",
     "ticker": "CDOG"
   },
   {
-    "assetId": "d08f87d253349ef8d7b61e4cd03504bea1bf9dad92d6d119302b73f74d4f42",
-    "ticker": "MOB",
-    "decimals": 0
-  },
-  {
-    "assetId": "d03119657f901cd7f020782e30cd3d4304c40034cf6fa29b73aefe9b2447726f6f76696573",
-    "ticker": "GNerd",
+    "assetId": "d01794c4604f3c0e544c537bb1f4268c0e81f45880c00c09ebe4b4a74d595354",
+    "ticker": "MYST",
     "decimals": 0
   },
   {
     "assetId": "d0aff8b7aca6e537e1f10e95d03d225f45a9632061f1c0af5c97a97a554e4f",
     "ticker": "UNO",
+    "decimals": 0
+  },
+  {
+    "assetId": "d03119657f901cd7f020782e30cd3d4304c40034cf6fa29b73aefe9b2447726f6f76696573",
+    "ticker": "GNerd",
     "decimals": 0
   },
   {
@@ -2776,8 +2771,8 @@
     "decimals": 0
   },
   {
-    "assetId": "d455802ebf6c83dcf74005c26741e77b8b46419e5c0a9f1941bc5177446f6c6c617242657473436f696e",
-    "ticker": "DBC"
+    "assetId": "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc97436861726c6573486f736b696e736f6e",
+    "ticker": "CH"
   },
   {
     "assetId": "d3558649b7874a1a596378515f9b80da63e73f324439ea113d34c9bb42454147",
@@ -2785,13 +2780,13 @@
     "decimals": 0
   },
   {
+    "assetId": "d455802ebf6c83dcf74005c26741e77b8b46419e5c0a9f1941bc5177446f6c6c617242657473436f696e",
+    "ticker": "DBC"
+  },
+  {
     "assetId": "d3a034e403b98cbdb0adbc8a3144d7779330916e190d387815bb85c650555252",
     "ticker": "$PURR",
     "decimals": 0
-  },
-  {
-    "assetId": "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc97436861726c6573486f736b696e736f6e",
-    "ticker": "CH"
   },
   {
     "assetId": "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc974672616e6f69734d6172696541726f756574",
@@ -2802,12 +2797,8 @@
     "ticker": "GGB"
   },
   {
-    "assetId": "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc974769726f6c616d6f43617264616e6f",
-    "ticker": "GC"
-  },
-  {
-    "assetId": "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc974b696e73616b754d617473756f",
-    "ticker": "KM"
+    "assetId": "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc974d617279576f6c6c73746f6e656372616674476f6477696e",
+    "ticker": "MWG"
   },
   {
     "assetId": "d55697dd01006c8d703282b30d0788148776b594819a42d3f77ef88944414c49",
@@ -2815,13 +2806,8 @@
     "decimals": 0
   },
   {
-    "assetId": "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc974d617279576f6c6c73746f6e656372616674476f6477696e",
-    "ticker": "MWG"
-  },
-  {
-    "assetId": "d6167623e9553045821690258fc5d60313ba79112dc1eaaaf371b04f4e6f744576656e546f6b656e",
-    "ticker": "NET",
-    "decimals": 6
+    "assetId": "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc974b696e73616b754d617473756f",
+    "ticker": "KM"
   },
   {
     "assetId": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed524154",
@@ -2829,8 +2815,17 @@
     "decimals": 6
   },
   {
-    "assetId": "d6826dd8c74b55a608fa93b0e3ba29c3558ee66906582be610a10d49434f444f58",
-    "ticker": "CODOX",
+    "assetId": "d4e1d2df56651f6eb383dc14b54e529f34df72d6b943231c3ff7dc974769726f6c616d6f43617264616e6f",
+    "ticker": "GC"
+  },
+  {
+    "assetId": "d6167623e9553045821690258fc5d60313ba79112dc1eaaaf371b04f4e6f744576656e546f6b656e",
+    "ticker": "NET",
+    "decimals": 6
+  },
+  {
+    "assetId": "d6a78cf46f36475396fcc82e28ebc2097c2d599285593b19a1efa0044d4b50",
+    "ticker": "MKP",
     "decimals": 0
   },
   {
@@ -2838,8 +2833,8 @@
     "ticker": "EEgg"
   },
   {
-    "assetId": "d6a78cf46f36475396fcc82e28ebc2097c2d599285593b19a1efa0044d4b50",
-    "ticker": "MKP",
+    "assetId": "d6826dd8c74b55a608fa93b0e3ba29c3558ee66906582be610a10d49434f444f58",
+    "ticker": "CODOX",
     "decimals": 0
   },
   {
@@ -2848,17 +2843,17 @@
     "decimals": 0
   },
   {
+    "assetId": "d9c7bbdc3a03a1a3b4c5314967835f05c9b1cc832894b7bb59369b824d6172636f",
+    "ticker": "Mco"
+  },
+  {
     "assetId": "d9b778a32dfa1366ea17e8ff88eeb39e4ce49d0e917586f73871d63343617264616e6f444f4745",
     "ticker": "CDOGE",
     "decimals": 4
   },
   {
-    "assetId": "d9c7bbdc3a03a1a3b4c5314967835f05c9b1cc832894b7bb59369b824d6172636f",
-    "ticker": "Mco"
-  },
-  {
-    "assetId": "d9ca5f9c7da7a8c035db31c44bf42f7b4ccfc0fa449fd4e7eea19df742494d",
-    "ticker": "BIM",
+    "assetId": "d08f87d253349ef8d7b61e4cd03504bea1bf9dad92d6d119302b73f74d4f42",
+    "ticker": "MOB",
     "decimals": 0
   },
   {
@@ -2870,9 +2865,9 @@
     "ticker": "HBT"
   },
   {
-    "assetId": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
-    "ticker": "LQ",
-    "decimals": 6
+    "assetId": "d9ca5f9c7da7a8c035db31c44bf42f7b4ccfc0fa449fd4e7eea19df742494d",
+    "ticker": "BIM",
+    "decimals": 0
   },
   {
     "assetId": "db30c7905f598ed0154de14f970de0f61f0cb3943ed82c891968480a434c4150",
@@ -2880,36 +2875,13 @@
     "decimals": 3
   },
   {
-    "assetId": "dc79d772aa5f0a643419c8698c467d2dfac9d682d32e3b61bd3e23cc5448414e4b53",
-    "ticker": "THANK"
-  },
-  {
-    "assetId": "db43efe8f97fcd7cac91b549192787d0d40b3dbf1ccf01a75db77bdd476c6f7661727279",
-    "ticker": "GLOV",
-    "decimals": 5
+    "assetId": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+    "ticker": "LQ",
+    "decimals": 6
   },
   {
     "assetId": "dd1ecaae570f4a90b8db10ce73c707389a6f122972f5eaba844f695753414d4d59",
     "ticker": "SAMMY"
-  },
-  {
-    "assetId": "dc1c91e3afb2f7ad8a837eb0fe4c75f7250f968d55f4e426e4ec2ff4",
-    "ticker": "Manda"
-  },
-  {
-    "assetId": "dd36edc829921044b1eda0932538b11c4c31d02e68955a6b6e3e2762424c554534",
-    "ticker": "BLUE4",
-    "decimals": 0
-  },
-  {
-    "assetId": "dd36edc829921044b1eda0932538b11c4c31d02e68955a6b6e3e27624b4f4d55",
-    "ticker": "KOMU",
-    "decimals": 0
-  },
-  {
-    "assetId": "dca54ecf37b0e3af2fdfd336e1d21fadcc45b3261b0f73a095631dfe444f4558",
-    "ticker": "DOEX",
-    "decimals": 0
   },
   {
     "assetId": "dd36edc829921044b1eda0932538b11c4c31d02e68955a6b6e3e27623750415353",
@@ -2917,8 +2889,21 @@
     "decimals": 0
   },
   {
-    "assetId": "dd36edc829921044b1eda0932538b11c4c31d02e68955a6b6e3e27624e414441",
-    "ticker": "NADA",
+    "assetId": "dc1c91e3afb2f7ad8a837eb0fe4c75f7250f968d55f4e426e4ec2ff4",
+    "ticker": "Manda"
+  },
+  {
+    "assetId": "dc79d772aa5f0a643419c8698c467d2dfac9d682d32e3b61bd3e23cc5448414e4b53",
+    "ticker": "THANK"
+  },
+  {
+    "assetId": "dca54ecf37b0e3af2fdfd336e1d21fadcc45b3261b0f73a095631dfe444f4558",
+    "ticker": "DOEX",
+    "decimals": 0
+  },
+  {
+    "assetId": "dd36edc829921044b1eda0932538b11c4c31d02e68955a6b6e3e2762424c554534",
+    "ticker": "BLUE4",
     "decimals": 0
   },
   {
@@ -2927,8 +2912,18 @@
     "decimals": 0
   },
   {
-    "assetId": "debeed97dcafbcda6449084eed551e8a89ab46ec848294b54748a37c435243",
-    "ticker": "CRC"
+    "assetId": "dd36edc829921044b1eda0932538b11c4c31d02e68955a6b6e3e27624b4f4d55",
+    "ticker": "KOMU",
+    "decimals": 0
+  },
+  {
+    "assetId": "dd36edc829921044b1eda0932538b11c4c31d02e68955a6b6e3e27624e414441",
+    "ticker": "NADA",
+    "decimals": 0
+  },
+  {
+    "assetId": "defca4b95934aec82b818cbafd4bd0ab45511c1d690b58759f07d9b156794669",
+    "ticker": "VYFI"
   },
   {
     "assetId": "dd5c3cebfbdef5c37aff39980e85e48ea80c9cde855a97d16105e2c447504159",
@@ -2936,8 +2931,16 @@
     "decimals": 0
   },
   {
+    "assetId": "df4133cc3615f8bdafaf0292fea83f740636da8cf4197438608bd06f43726f7764616e6f436f696e",
+    "ticker": "CROWD"
+  },
+  {
     "assetId": "dd4ee02ae887ba50cb472950619114ec6d38f98d787e7f882e7dc9226e667463617264616e6f32",
     "ticker": "vpv"
+  },
+  {
+    "assetId": "df0172804f8418afc4e5b0a15b8fc78bdc3ca6d179405a7cd194f3b4464c49434b",
+    "ticker": "FLICK"
   },
   {
     "assetId": "de34e6cfa98de77f9708f1656280edeee79e4f1ce7ab299d9819f112456e70696d6f6e79",
@@ -2945,21 +2948,8 @@
     "decimals": 6
   },
   {
-    "assetId": "defca4b95934aec82b818cbafd4bd0ab45511c1d690b58759f07d9b156794669",
-    "ticker": "VYFI"
-  },
-  {
-    "assetId": "df4133cc3615f8bdafaf0292fea83f740636da8cf4197438608bd06f43726f7764616e6f436f696e",
-    "ticker": "CROWD"
-  },
-  {
-    "assetId": "df0172804f8418afc4e5b0a15b8fc78bdc3ca6d179405a7cd194f3b4464c49434b",
-    "ticker": "FLICK"
-  },
-  {
-    "assetId": "dff1568d6fc0c8473b2be7bf65a3dd9f3010b0f8323f5c0b1390b63c47425049",
-    "ticker": "GBPI",
-    "decimals": 2
+    "assetId": "debeed97dcafbcda6449084eed551e8a89ab46ec848294b54748a37c435243",
+    "ticker": "CRC"
   },
   {
     "assetId": "b2417b17ba6192c1b4ffdcde1c5cd843aa60b118f0722a400ad381f144524f5053",
@@ -2967,13 +2957,18 @@
     "decimals": 0
   },
   {
-    "assetId": "e1d921643d6fd55a815f495f72aff7f5c3d7ac57a8783e0be293ac1752656465656d61626c65",
-    "ticker": "RED",
-    "decimals": 0
+    "assetId": "dff1568d6fc0c8473b2be7bf65a3dd9f3010b0f8323f5c0b1390b63c47425049",
+    "ticker": "GBPI",
+    "decimals": 2
   },
   {
     "assetId": "e14fe3ab348f9a6198359481472601f4557b9f86984f40a186a3b1e8434845525259",
     "ticker": "CHERRY"
+  },
+  {
+    "assetId": "e1d921643d6fd55a815f495f72aff7f5c3d7ac57a8783e0be293ac1752656465656d61626c65",
+    "ticker": "RED",
+    "decimals": 0
   },
   {
     "assetId": "e138ed54cf5fc4c9eb3f740e7275fd4fc16a09e7f5eead70b139189f58455a",
@@ -2981,12 +2976,12 @@
     "decimals": 0
   },
   {
-    "assetId": "e362beea6b1d86b88fe79e3f18c644f0762f7b53c6cd05e787d045b54e696b6b694475636b",
-    "ticker": "Nduck"
-  },
-  {
     "assetId": "e4bda3eb80d9606d86c909e4c931ccc6e1eee424a7e58d34134e94c573706f7368",
     "ticker": "SPO"
+  },
+  {
+    "assetId": "e362beea6b1d86b88fe79e3f18c644f0762f7b53c6cd05e787d045b54e696b6b694475636b",
+    "ticker": "Nduck"
   },
   {
     "assetId": "e59412f1a75b09eac1e083627d0583fa1624fdede8e3871971985da75053554c45",
@@ -3004,6 +2999,20 @@
     "decimals": 0
   },
   {
+    "assetId": "ea40a82f6b38c5c884ae711586efe83998aed747ddb19b530036922942696e676f",
+    "ticker": "BINGO",
+    "decimals": 5
+  },
+  {
+    "assetId": "db43efe8f97fcd7cac91b549192787d0d40b3dbf1ccf01a75db77bdd476c6f7661727279",
+    "ticker": "GLOV",
+    "decimals": 5
+  },
+  {
+    "assetId": "e9c28a71273f825b13f38244ccf1fea97c4025813610d01a7c5d681f436861726c7a20546f6b656e",
+    "ticker": "CHRLZ"
+  },
+  {
     "assetId": "e9b96082874762878d72f2212d72a226b1056d74c2756a927b3d316b4d454348",
     "ticker": "MECH",
     "decimals": 6
@@ -3011,15 +3020,6 @@
   {
     "assetId": "e92bde7590820644eb29b69c347ef96bc645084e2e376782140158cb5452555354",
     "ticker": "TRUST"
-  },
-  {
-    "assetId": "e9c28a71273f825b13f38244ccf1fea97c4025813610d01a7c5d681f436861726c7a20546f6b656e",
-    "ticker": "CHRLZ"
-  },
-  {
-    "assetId": "ea40a82f6b38c5c884ae711586efe83998aed747ddb19b530036922942696e676f",
-    "ticker": "BINGO",
-    "decimals": 5
   },
   {
     "assetId": "ec5d618931d59ca06da2ce203366177cf75650f890062ff07976a52d6e6577546f6b656e",
@@ -3031,13 +3031,16 @@
     "decimals": 0
   },
   {
-    "assetId": "ec6ec45fc2275a2380b16449c1e34869dc0b6609bdf17a8b7c9f1cb4546f6d61746f436f696e",
-    "ticker": "TCOIN",
-    "decimals": 0
+    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b466972737451756172746572",
+    "ticker": "MOON3"
   },
   {
-    "assetId": "ecef179f7ffb98735bc021462f2cbcde631dce52014375ec4a36d7e3484a50",
-    "ticker": "HJP"
+    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b46756c6c4d6f6f6e",
+    "ticker": "MOON5"
+  },
+  {
+    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b4e65774d6f6f6e",
+    "ticker": "MOON1"
   },
   {
     "assetId": "ed08f15a431de9ec271d3227cdd83278eeba54b9a80f3dd77a514e185155454552",
@@ -3045,54 +3048,42 @@
     "decimals": 0
   },
   {
-    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b466972737451756172746572",
-    "ticker": "MOON3"
-  },
-  {
-    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b4e65774d6f6f6e",
-    "ticker": "MOON1"
-  },
-  {
-    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b46756c6c4d6f6f6e",
-    "ticker": "MOON5"
-  },
-  {
-    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b57616e696e674372657363656e74",
-    "ticker": "MOON8"
-  },
-  {
-    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b576178696e674372657363656e74",
-    "ticker": "MOON2"
+    "assetId": "ecef179f7ffb98735bc021462f2cbcde631dce52014375ec4a36d7e3484a50",
+    "ticker": "HJP"
   },
   {
     "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b546869726451756172746572",
     "ticker": "MOON7"
   },
   {
+    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b57616e696e674372657363656e74",
+    "ticker": "MOON8"
+  },
+  {
     "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b57616e696e67476962626f7573",
     "ticker": "MOON6"
+  },
+  {
+    "assetId": "ec6ec45fc2275a2380b16449c1e34869dc0b6609bdf17a8b7c9f1cb4546f6d61746f436f696e",
+    "ticker": "TCOIN",
+    "decimals": 0
   },
   {
     "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b576178696e67476962626f7573",
     "ticker": "MOON4"
   },
   {
-    "assetId": "efeb309a02323634a05993abfadc8c9cccd3ac8631ad5ee0befd81d5544558494552",
-    "ticker": "TEXCO"
-  },
-  {
-    "assetId": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
-    "ticker": "NTX",
-    "decimals": 6
+    "assetId": "edad22ac4eefa49ae5241692e2c5a18db9b887a31a08cea86296348b576178696e674372657363656e74",
+    "ticker": "MOON2"
   },
   {
     "assetId": "eef3f1151ef6ed98c78f6825b8cdfe907089b555e5e44203761d4a0764656c7461746f6b656e",
     "ticker": "Delta"
   },
   {
-    "assetId": "f0526156adbca81ace64a2e58e5fb64ab59de6014cef5d21bd7ed0cb424c554e54434f494e",
-    "ticker": "BLUNT",
-    "decimals": 8
+    "assetId": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
+    "ticker": "NTX",
+    "decimals": 6
   },
   {
     "assetId": "f0b63bb98a30166333b0c92b54ff8b9ec9d40ef48e991ce86d6cd4ef524144546f6b656e73",
@@ -3109,9 +3100,8 @@
     "decimals": 0
   },
   {
-    "assetId": "f10b16b705ef9baac04ca79c0da011633c8c20356b6a42262a1691da4368656666546f6b656e",
-    "ticker": "CHEFF",
-    "decimals": 18
+    "assetId": "f180fa596cfdec646c972d72fae9790d343858bd9cf2f998ec57ac7f497a6e6f546f6b656e30",
+    "ticker": "IZNO0"
   },
   {
     "assetId": "f14ff85e85032a35ff5bdb2e5e6b64c0dbc3c0187d112217b93e9172464f535441",
@@ -3119,13 +3109,22 @@
     "decimals": 0
   },
   {
-    "assetId": "f180fa596cfdec646c972d72fae9790d343858bd9cf2f998ec57ac7f497a6e6f546f6b656e30",
-    "ticker": "IZNO0"
-  },
-  {
     "assetId": "f2f9467910383c4b4cfad3111bbe362daddaeff1973d1288e7f63e824745524f",
     "ticker": "GERO",
     "decimals": 6
+  },
+  {
+    "assetId": "f10b16b705ef9baac04ca79c0da011633c8c20356b6a42262a1691da4368656666546f6b656e",
+    "ticker": "CHEFF",
+    "decimals": 18
+  },
+  {
+    "assetId": "efeb309a02323634a05993abfadc8c9cccd3ac8631ad5ee0befd81d5544558494552",
+    "ticker": "TEXCO"
+  },
+  {
+    "assetId": "f2fe9aafd2e5b3b00e2949a96d44a84d9f4d818d63945010a466a4ae4155444954",
+    "ticker": "AUDIT"
   },
   {
     "assetId": "f28f457472e539dc75e1598a2beddf49ce5a717998c708f05f5de61044454653",
@@ -3138,8 +3137,9 @@
     "decimals": 0
   },
   {
-    "assetId": "f2fe9aafd2e5b3b00e2949a96d44a84d9f4d818d63945010a466a4ae4155444954",
-    "ticker": "AUDIT"
+    "assetId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a434152474f",
+    "ticker": "CARGO",
+    "decimals": 6
   },
   {
     "assetId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
@@ -3147,13 +3147,17 @@
     "decimals": 8
   },
   {
-    "assetId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a434152474f",
-    "ticker": "CARGO",
-    "decimals": 6
-  },
-  {
     "assetId": "f456dbdd3629be1e138699419ed4f9fe0bcd70cc473b149d658f0f10",
     "ticker": "CITY"
+  },
+  {
+    "assetId": "f523573c4df900cf0fe16312aa7445877098b2a001dced3cc1283358546f6d61746f436f696e",
+    "ticker": "TCOIN"
+  },
+  {
+    "assetId": "f555c46bad0731d080c9381d7fff6f82839946a66bd070d185e1ea2f42444f4745",
+    "ticker": "BDOGE",
+    "decimals": 0
   },
   {
     "assetId": "f4d97191f857096b441a410c036f63d6697dde0c71d2755dd664e3024d4b41",
@@ -3161,33 +3165,20 @@
     "decimals": 0
   },
   {
-    "assetId": "f523573c4df900cf0fe16312aa7445877098b2a001dced3cc1283358546f6d61746f436f696e",
-    "ticker": "TCOIN"
+    "assetId": "f7402042becb0e6e819f21bf5d9d4a88fc38e77c1087fc701e81b81a43616c63696e6174696f",
+    "ticker": "CALC"
   },
   {
     "assetId": "f4f2398897dfe4abf91232435b48b85133a24b5ae2109be9c171b3dd5552454e54",
     "ticker": "URENT"
   },
   {
-    "assetId": "f7402042becb0e6e819f21bf5d9d4a88fc38e77c1087fc701e81b81a43616c63696e6174696f",
-    "ticker": "CALC"
-  },
-  {
-    "assetId": "f7402042becb0e6e819f21bf5d9d4a88fc38e77c1087fc701e81b81a436f6167756c6174696f",
-    "ticker": "COAG"
-  },
-  {
     "assetId": "f7402042becb0e6e819f21bf5d9d4a88fc38e77c1087fc701e81b81a436f6e6a756e6374696f",
     "ticker": "CONJ"
   },
   {
-    "assetId": "f6ac48c64aa7af16434d9f84e014d11fba38525b436acc338ff20b0d4d7463",
-    "ticker": "Mtc",
-    "decimals": 0
-  },
-  {
-    "assetId": "f7402042becb0e6e819f21bf5d9d4a88fc38e77c1087fc701e81b81a4665726d656e746174696f",
-    "ticker": "FERM"
+    "assetId": "f7402042becb0e6e819f21bf5d9d4a88fc38e77c1087fc701e81b81a436f6167756c6174696f",
+    "ticker": "COAG"
   },
   {
     "assetId": "f7402042becb0e6e819f21bf5d9d4a88fc38e77c1087fc701e81b81a446973736f6c7574696f",
@@ -3202,9 +3193,27 @@
     "ticker": "SEPA"
   },
   {
+    "assetId": "f7402042becb0e6e819f21bf5d9d4a88fc38e77c1087fc701e81b81a4665726d656e746174696f",
+    "ticker": "FERM"
+  },
+  {
     "assetId": "f7b2a44ffc681828c0409f86e0bbab0d25da730004b97bfb11ac8d956d7961737365746e616d65",
     "ticker": "ARTA",
     "decimals": 6
+  },
+  {
+    "assetId": "f8497f52e57083a4ce0130a428a66b00e3b45607e398b8f183260253534543524554",
+    "ticker": "SECRET",
+    "decimals": 6
+  },
+  {
+    "assetId": "f6ac48c64aa7af16434d9f84e014d11fba38525b436acc338ff20b0d4d7463",
+    "ticker": "Mtc",
+    "decimals": 0
+  },
+  {
+    "assetId": "f8f93eb8a7250a9966ebfa83774fb0a63ef1a0070955dc4e906f3f8b47484f5354",
+    "ticker": "GHOST"
   },
   {
     "assetId": "f7c777fdd4531cf1c477551360e45b9684073c05c2fa61334f8f9add5665726974726565546f6b656e",
@@ -3217,27 +3226,8 @@
     "decimals": 0
   },
   {
-    "assetId": "f8497f52e57083a4ce0130a428a66b00e3b45607e398b8f183260253534543524554",
-    "ticker": "SECRET",
-    "decimals": 6
-  },
-  {
-    "assetId": "f8f93eb8a7250a9966ebfa83774fb0a63ef1a0070955dc4e906f3f8b47484f5354",
-    "ticker": "GHOST"
-  },
-  {
-    "assetId": "f555c46bad0731d080c9381d7fff6f82839946a66bd070d185e1ea2f42444f4745",
-    "ticker": "BDOGE",
-    "decimals": 0
-  },
-  {
-    "assetId": "f939881510c545411afc5934a7a70e0df708cc50bad9a9182fbe9a1a4d4943",
-    "ticker": "MIC",
-    "decimals": 0
-  },
-  {
-    "assetId": "f97c3b3635beeefb268d3fe6974308520347308176890635ee18b6a24350524e",
-    "ticker": "CPRN",
+    "assetId": "f9540201cc1d6267adfa0a29cfbcc30c5594759a470bf15fe8a844b84b415348",
+    "ticker": "KASH",
     "decimals": 0
   },
   {
@@ -3246,13 +3236,23 @@
     "decimals": 0
   },
   {
-    "assetId": "fb353334ac071f79f6d938e0972640a6b6650815124e9d63fbc0b5e8434f524e",
-    "ticker": "CORN",
+    "assetId": "f0526156adbca81ace64a2e58e5fb64ab59de6014cef5d21bd7ed0cb424c554e54434f494e",
+    "ticker": "BLUNT",
+    "decimals": 8
+  },
+  {
+    "assetId": "f97c3b3635beeefb268d3fe6974308520347308176890635ee18b6a24350524e",
+    "ticker": "CPRN",
     "decimals": 0
   },
   {
-    "assetId": "fb353334ac071f79f6d938e0972640a6b6650815124e9d63fbc0b5e84641524d",
-    "ticker": "FARM",
+    "assetId": "f939881510c545411afc5934a7a70e0df708cc50bad9a9182fbe9a1a4d4943",
+    "ticker": "MIC",
+    "decimals": 0
+  },
+  {
+    "assetId": "fb353334ac071f79f6d938e0972640a6b6650815124e9d63fbc0b5e8434f524e",
+    "ticker": "CORN",
     "decimals": 0
   },
   {
@@ -3261,8 +3261,13 @@
     "decimals": 0
   },
   {
-    "assetId": "f9540201cc1d6267adfa0a29cfbcc30c5594759a470bf15fe8a844b84b415348",
-    "ticker": "KASH",
+    "assetId": "fb5f0e85282ed71402da1ba6eb8a5a6598a2b9325bdb59f9ada60543474549534841",
+    "ticker": "GEISHA",
+    "decimals": 0
+  },
+  {
+    "assetId": "fb353334ac071f79f6d938e0972640a6b6650815124e9d63fbc0b5e84641524d",
+    "ticker": "FARM",
     "decimals": 0
   },
   {
@@ -3271,18 +3276,13 @@
     "decimals": 6
   },
   {
-    "assetId": "fb5f0e85282ed71402da1ba6eb8a5a6598a2b9325bdb59f9ada60543474549534841",
-    "ticker": "GEISHA",
-    "decimals": 0
+    "assetId": "fb854cd721ce87be1aab187e8c3321c837d78c6ee8575eff4e05582d54726176656c436f696e",
+    "ticker": "TVL",
+    "decimals": 6
   },
   {
     "assetId": "fbb238009cbc914004e7d1efbc41a56998152423f474edc3bbc22f454c415652",
     "ticker": "LAVR",
-    "decimals": 6
-  },
-  {
-    "assetId": "fb854cd721ce87be1aab187e8c3321c837d78c6ee8575eff4e05582d54726176656c436f696e",
-    "ticker": "TVL",
     "decimals": 6
   },
   {
@@ -3300,8 +3300,8 @@
     "decimals": 0
   },
   {
-    "assetId": "fe1485a68e10652de7079f98bb594683fab167f7fa3f388a0ea675914c6574277320476f204272616e646f6e0a",
-    "ticker": "FED",
+    "assetId": "fee42cbf08b36928503f4711bb7f3b7439a4fa9ad1afc729a8a09dcf434b45584e46543034",
+    "ticker": "CKEXN",
     "decimals": 0
   },
   {
@@ -3310,8 +3310,8 @@
     "decimals": 0
   },
   {
-    "assetId": "fee42cbf08b36928503f4711bb7f3b7439a4fa9ad1afc729a8a09dcf434b45584e46543034",
-    "ticker": "CKEXN",
+    "assetId": "fe1485a68e10652de7079f98bb594683fab167f7fa3f388a0ea675914c6574277320476f204272616e646f6e0a",
+    "ticker": "FED",
     "decimals": 0
   },
   {
@@ -3324,20 +3324,12 @@
     "ticker": "IST"
   },
   {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303031",
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303033",
     "ticker": "0100"
   },
   {
     "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303032",
     "ticker": "0100"
-  },
-  {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303033",
-    "ticker": "0100"
-  },
-  {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303034",
-    "ticker": "ADAGE"
   },
   {
     "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303035",
@@ -3348,11 +3340,19 @@
     "ticker": "ADAGE"
   },
   {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303037",
+    "ticker": "ADAGE"
+  },
+  {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303031",
+    "ticker": "0100"
+  },
+  {
     "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303038",
     "ticker": "ADAGE"
   },
   {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303037",
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303034",
     "ticker": "ADAGE"
   },
   {
@@ -3364,19 +3364,7 @@
     "ticker": "ADAGE"
   },
   {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303132",
-    "ticker": "ADAGE"
-  },
-  {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303133",
-    "ticker": "ADAGE"
-  },
-  {
     "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303131",
-    "ticker": "ADAGE"
-  },
-  {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303134",
     "ticker": "ADAGE"
   },
   {
@@ -3384,23 +3372,23 @@
     "ticker": "ADAGE"
   },
   {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303132",
+    "ticker": "ADAGE"
+  },
+  {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303134",
+    "ticker": "ADAGE"
+  },
+  {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303137",
+    "ticker": "ADAGE"
+  },
+  {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303133",
+    "ticker": "ADAGE"
+  },
+  {
     "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303136",
-    "ticker": "ADAGE"
-  },
-  {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303230",
-    "ticker": "ADAGE"
-  },
-  {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303138",
-    "ticker": "ADAGE"
-  },
-  {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303231",
-    "ticker": "ADAGE"
-  },
-  {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303232",
     "ticker": "ADAGE"
   },
   {
@@ -3408,7 +3396,7 @@
     "ticker": "ADAGE"
   },
   {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303234",
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303138",
     "ticker": "ADAGE"
   },
   {
@@ -3416,7 +3404,15 @@
     "ticker": "ADAGE"
   },
   {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303236",
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303230",
+    "ticker": "ADAGE"
+  },
+  {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303234",
+    "ticker": "ADAGE"
+  },
+  {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303232",
     "ticker": "ADAGE"
   },
   {
@@ -3424,7 +3420,7 @@
     "ticker": "ADAGE"
   },
   {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303137",
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303236",
     "ticker": "ADAGE"
   },
   {
@@ -3440,15 +3436,19 @@
     "ticker": "ADAGE"
   },
   {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303231",
+    "ticker": "ADAGE"
+  },
+  {
+    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303330",
+    "ticker": "ADAGE"
+  },
+  {
     "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630313030",
     "ticker": "0100"
   },
   {
     "assetId": "ff98bb948154acc772b8b1f9bb9242a2ccc7831770cd2d2b4a385972",
     "ticker": "Manda"
-  },
-  {
-    "assetId": "ff7cad970d3a755a1ff0335ccb3f3c1cabf31aacf3f23dd13db61b0630303330",
-    "ticker": "ADAGE"
   }
 ]
