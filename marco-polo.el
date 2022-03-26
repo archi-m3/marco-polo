@@ -55,9 +55,11 @@
   :group 'marco-polo/faces)
 
 ;; helpers
-(defun marco-polo/lovelace-to-ada (lovelace)
-  "Convert LOVELACE to ADA."
-  (/ (float lovelace) 1000000))
+(defun marco-polo/decimalize (quantity decimals)
+  "Convert QUANTITY in string to an ammount using DECIMALS."
+  (cond
+    ((> decimals 0) (/ (float quantity) (expt 10 decimals)))
+    (t quantity)))
 
 (defun marco-polo/mask-decimal (string length character)
   "Mask a number STRING with CHARACTER to LENGTH."
@@ -81,9 +83,9 @@
         pt (- pt size)))
     str))
 
-(defun marco-polo/format-ada (amount)
-  "Format ada AMOUNT."
-  (marco-polo/mask-decimal (marco-polo/group-number amount) 6 ?0))
+(defun marco-polo/format-decimalized-quantity (decimalized-quantity decimals)
+  "Format a decimalized quantity that has been converted from string using DECIMALS."
+  (marco-polo/mask-decimal (marco-polo/group-number decimalized-quantity) decimals ?0))
 
 (defun marco-polo/parse-response-to-hash-table (json-string)
   "Parse JSON-STRING to hash table."
@@ -135,7 +137,7 @@
   (let* ((account-configs (marco-polo/read-config-accounts))
          (max-name-length (seq-max (mapcar (lambda (account-config) (length (marco-polo/account-name account-config))) account-configs)))
           (buffer (get-buffer-create "*Accounts*"))
-          (total-amount 0))
+          (total-ada 0))
     (marco-polo/fetch-accounts
       account-configs
       (lambda (response)
@@ -143,33 +145,43 @@
         (with-current-buffer buffer
           (erase-buffer)
           (marco-polo-mode)
-          (insert "Accounts:")
+          (insert "Accounts:\n")
           (dolist (account-config account-configs)
             (let* ((stakeaddr (marco-polo/account-stakeaddr account-config))
-                    (lovelace (string-to-number (gethash "controlled_amount" (gethash stakeaddr response))))
-                    (ada (marco-polo/lovelace-to-ada lovelace)))
+                    (account (gethash stakeaddr response))
+                    (lovelace (string-to-number (gethash "controlled_amount" account)))
+                    (ada (marco-polo/decimalize lovelace 6))
+                    (tokens (gethash "ft" account)))
               (insert
                 (concat
-                  (format (concat "%-" (number-to-string max-name-length) "s") (marco-polo/account-name account-config))
-                  "   "
                   (propertize
                     (format "%s" stakeaddr)
                     'face 'marco-polo/address-face)
-                  "  "
-                  (propertize
-                    (format "₳ %24s" (marco-polo/format-ada ada))
-                    'face 'marco-polo/amount-face)
-                  (insert "\n")))
-              (setq total-amount (+ total-amount ada))))
+                  (format " [%s]" (marco-polo/account-name account-config))))
+              (insert "\n")
+              (insert
+                (propertize
+                  (format "  %-8s %24s" "₳" (marco-polo/format-decimalized-quantity ada 6))
+                  'face 'marco-polo/amount-face))
+              (insert "\n")
+              (dolist (token tokens)
+                (let ((decimals (gethash "decimals" token))
+                       (quantity (string-to-number (gethash "quantity" token))))
+                  (insert
+                  (format
+                    "  %-8s %24s\n"
+                    (gethash "ticker" token)
+                    (marco-polo/format-decimalized-quantity
+                      (marco-polo/decimalize quantity decimals) decimals)))))
+              (insert "\n")
+              (setq total-ada (+ total-ada ada))))
           (insert "\n")
-          (insert (concat (make-string (+ max-name-length 64) ?\s) (make-string 26 ?-)))
+          (insert (make-string 26 ?-))
           (insert "\n")
           (insert
-            (concat
-              (make-string (+ max-name-length 64) ?\s)
-              (propertize
-                (format "₳ %24s" (marco-polo/format-ada total-amount))
-                'face 'marco-polo/amount-face))))))))
+            (propertize
+                (format "₳ %24s" (marco-polo/format-decimalized-quantity total-ada 6))
+                'face 'marco-polo/amount-face)))))))
 
 (defun marco-polo ()
   (interactive)
